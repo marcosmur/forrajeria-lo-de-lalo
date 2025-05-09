@@ -21,7 +21,7 @@ return (
         ¡Gracias por visitarnos! Si tenés alguna duda o consulta, escribinos por WhatsApp y te responderemos lo antes posible.
         </p>
         <Link
-        href="https://wa.me/5492324468941?text=Hola!%20Quisiera%20hacer%20una%20consulta"
+        href="https://wa.me/5492324519732?text=Hola!%20Quisiera%20hacer%20una%20consulta"
         target="_blank"
         className="inline-block bg-green-500 text-white px-8 py-3 rounded-full shadow-md hover:bg-green-600 transition"
         >

@@ -7,13 +7,10 @@ return(
     </span>
     <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-white dark:text-white sm:mt-0">
         <li>
-            <a href="#" className="hover:underline me-4 md:me-6">About</a>
+            <a href="/about" className="hover:underline me-4 md:me-6">sobre la pagina </a>
         </li>
         <li>
-            <a href="#" className="hover:underline me-4 md:me-6">Privacy Policy</a>
-        </li>
-        <li>
-            <a href="#" className="hover:underline me-4 md:me-6">Licensing</a>
+            <a href="/queries-or-errors" className="hover:underline me-4 md:me-6">consultas o errores</a>
         </li>
         <li>
             <a href="/contac" className="hover:underline">Contact</a>
