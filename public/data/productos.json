@@ -1,0 +1,520 @@
+[
+  {
+    "id": 1652720,
+    "nombre": "7 VIDAS X 10",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 880958,
+    "nombre": "ADVANCE COR/ARROZ HIPOALARG. X 15",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/advancejpg.jpg"
+  },
+  {
+    "id": 1590643,
+    "nombre": "AGILITY ADULTO PEQUEÑO X 15",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/agility-aduPeq.png"
+  },
+  {
+    "id": 1348066,
+    "nombre": "AGILITY ADULTO X 20K",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/agility adulto 20.webp"
+  },
+  {
+    "id": 2369483,
+    "nombre": "AGILITY CACHORRO X 20",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/agility-Cach-1.png"
+  },
+  {
+    "id": 2369484,
+    "nombre": "AGILITY GATO ADULTO X 10",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 2369542,
+    "nombre": "AGILITY GATO URINARY X10",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  
+  {
+    "id": 761598,
+    "nombre": "ALICATE GRANDE Y CHICO",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/alicate perro.webp"
+  },
+  
+  {
+    "id": 2696532,
+    "nombre": "ARROZ LUMPY 15K",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/arroz.webp"
+  },
+  {
+    "id": 750906,
+    "nombre": "BABOSIL CEBO 200",
+    "categoria": "veneno",
+    "imagen": ""
+  },
+  {
+    "id": 750907,
+    "nombre": "BABOSIL LIQUIDO 100",
+    "categoria": "veneno",
+    "imagen": ""
+  },
+  {
+    "id": 750908,
+    "nombre": "BABOSIL MICROPELLETS 100",
+    "categoria": "veneno",
+    "imagen": ""
+  },
+  {
+    "id": 757242,
+    "nombre": "BANDEJA SANITARIA CHICA",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 757244,
+    "nombre": "BANDEJA SANITARIA GRANDE",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 757245,
+    "nombre": "BANDEJA SANITARIA KIT",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 757255,
+    "nombre": "BANDEJA SANITARIA KIT ECONOMICO",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 757243,
+    "nombre": "BANDEJA SANITARIA MEDIANA",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 952434,
+    "nombre": "BANDEJA SANITARIA MEDIUM NEGRA NEW",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 2318167,
+    "nombre": "BANDEJA SANITARIA NEGRA CHICA NEW PET",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 754793,
+    "nombre": "BARRE HOJAS 60 CM NARANJA",
+    "categoria": "jardineria",
+    "imagen": ""
+  },
+  {
+    "id": 754794,
+    "nombre": "BARRE HOJAS COMUN",
+    "categoria": "jardineria",
+    "imagen": ""
+  },
+  {
+    "id": 752034,
+    "nombre": "BAYGON VERDE CUCARACHAS AEROSOL 300",
+    "categoria": "veneno",
+    "imagen": ""
+  },
+  {
+    "id": 761623,
+    "nombre": "BEBEDERO PICAFLOR SIN SOPORTE",
+    "categoria": "jardineria",
+    "imagen": ""
+  },
+  {
+    "id": 747888,
+    "nombre": "BIOPET A. PEQUEÑO X 15",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/biopet mordida pequeña.png"
+  },
+  {
+    "id": 749090,
+    "nombre": "BIOPET ADULTO X 20",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/BIOPET-ADULTO.webp"
+  },
+  {
+    "id": 747887,
+    "nombre": "BIOPET CACHORRO X 15",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/cachorro biopet.jpg"
+  },
+  {
+    "id": 748992,
+    "nombre": "CAT CHOW GATITO X 15",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 748387,
+    "nombre": "CAT CHOW GATO X 15",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 943746,
+    "nombre": "CATPRO CASTRADO 7.5",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 844961,
+    "nombre": "CATPRO URINARY X 15",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 752957,
+    "nombre": "CESPED GOLD PACK MEDIA SOMBRA",
+    "categoria": "jardineria",
+    "imagen": ""
+  },
+  {
+    "id": 1177715,
+    "nombre": "CESPED GOLD-PACK PIOTEO 400GRSS",
+    "categoria": "jardineria",
+    "imagen": ""
+  },
+  {
+    "id": 819873,
+    "nombre": "COLLAR ANTIPULGAS BABS  GATO",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 760901,
+    "nombre": "COLLAR ANTIPULGAS BABS  GRANDE",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/collar-babs-718x781.jpg"
+  },
+
+  {
+    "id": 2543392,
+    "nombre": "BOTELLA AGUA PERRO CHICA Y GRANDE",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/botella perro.webp"
+  },
+  
+  {
+    "id": 1894423,
+    "nombre": "BOZAL CANASTA N1",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/bozal canasta.png"
+  },
+  {
+    "id": 818976,
+    "nombre": "BOZAL RED ",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/bozal-red.jpg"
+  },
+  {
+    "id": 761797,
+    "nombre": "BOZAL REGULABLE TALLES",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/bozal regula.png"
+  },
+  {
+    "id": 749020,
+    "nombre": "DOG CHOW A. PEQUEÑO X 20",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/dog chow pequeño.webp"
+  },
+  {
+    "id": 749021,
+    "nombre": "DOG CHOW ADULTO X 20",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/dog chow adulto.webp"
+  },
+  {
+    "id": 749019,
+    "nombre": "DOG CHOW CACHORRO X 21",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/cachorro dog chow.jpg"
+  },
+  {
+    "id": 752878,
+    "nombre": "DOG OUT",
+    "categoria": "veneno",
+    "imagen": ""
+  },
+  {
+    "id": 749024,
+    "nombre": "DOG PRO ADULTO X 20",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/dog pro adulto.webp"
+  },
+  {
+    "id": 2295502,
+    "nombre": "DOG PRO ADUTO PEQUEÑO X 15 K",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/dog pro pequeño.png"
+  },
+  {
+    "id": 749025,
+    "nombre": "DOG SELECTION A. PEQUEÑO X 15",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/dog selection.webp"
+  },
+  {
+    "id": 749026,
+    "nombre": "DOG SELECTION ADULTO",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/dogadulto.png"
+  },
+  {
+    "id": 749065,
+    "nombre": "GATI X 15",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  
+  {
+    "id": 749070,
+    "nombre": "GAUCHO ADULTO X 15/25 ",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/Gaucho-Perro-Adulto-x-25Kg.png"
+  },
+  {
+    "id": 749068,
+    "nombre": "GAUCHO CACHORRO X 25/15",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/Gaucho-Perro-Cachorro-x-25Kg.png"
+  },
+
+  {
+    "id": 749067,
+    "nombre": "GAUCHO GATO X 15",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 750889,
+    "nombre": "GELTEK JERINGA CUCARACHA 12",
+    "categoria": "veneno",
+    "imagen": ""
+  },
+  {
+    "id": 750888,
+    "nombre": "GELTEK JERINGA CUCARACHA 6",
+    "categoria": "veneno",
+    "imagen": ""
+  },
+  {
+    "id": 750887,
+    "nombre": "GELTEK JERINGA HORMIGA 12",
+    "categoria": "veneno",
+    "imagen": ""
+  },
+  {
+    "id": 750886,
+    "nombre": "GELTEK JERINGA HORMIGA 6",
+    "categoria": "veneno",
+    "imagen": ""
+  },
+  {
+    "id": 748992,
+    "nombre": "CAT CHOW GATITO X 15",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 748387,
+    "nombre": "CAT CHOW GATO X 15",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 943746,
+    "nombre": "CATPRO CASTRADO 7.5",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 844961,
+    "nombre": "CATPRO URINARY X 15",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 749071,
+    "nombre": "KONGO GATITO X 8",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 749324,
+    "nombre": "SABROSITOS ADULTO X 22/15",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/sabrositos-adulto-5239a1e713cda14b4417172729549473-640-0.jpg"
+  },
+  {
+    "id": 749322,
+    "nombre": "SABROSITOS CACHORRO X 18/9",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/Sabrositos-Cachorro-Mix-Carnes-cereales-Y-Veg-1-880326.webp"
+  },
+  {
+    "id": 749320,
+    "nombre": "SABROSITOS GATO X 20",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 749271,
+    "nombre": "PEDIGREE A. PEQUEÑO X 15",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/pedigrre a pequeño.jpg"
+  },
+  {
+    "id": 749272,
+    "nombre": "PEDIGREE ADULTO X 21",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/PEDIGREE-ADULTO-X-21KG.webp"
+  },
+  {
+    "id": 749270,
+    "nombre": "PEDIGREE CACHORRO X 21",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/pedigre cachorro.jpg"
+  },
+  {
+    "id": 1363917,
+    "nombre": "POUCH PEDIGREE CARNE Y POLLO",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/pouch perro.png"
+  },
+  {
+    "id": 822282,
+    "nombre": "POUCH WHISKAS GATITO",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  
+  {
+    "id": 749278,
+    "nombre": "RAZA ADULTO X 21",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/raza adulto.png"
+  },
+  {
+    "id": 749274,
+    "nombre": "RAZA GATITO X 8",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 749275,
+    "nombre": "RAZA GATO X 15",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 749252,
+    "nombre": "NATURE A. PEQUEÑO X 8",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/nature a pequeño.webp"
+  },
+  {
+    "id": 749253,
+    "nombre": "NATURE ADULTO X 20",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/adulto nature-2.jpg"
+  },
+  {
+    "id": 749250,
+    "nombre": "NATURE C. PEQUEÑO. X 8",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/Nature-Cachorros-SmallMedium.jpg"
+  },
+  {
+    "id": 749249,
+    "nombre": "NATURE GATO X 8",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 2465579,
+    "nombre": "NUTRIBON GATO URINARIO XQ X 8",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  
+  {
+    "id": 749355,
+    "nombre": "TIGRE ADULTO X 22/15",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/tigre.webp"
+  },
+  {
+    "id": 749356,
+    "nombre": "VORAZ GATITO X 15",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 749357,
+    "nombre": "WHISKAS GATITO X 10",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 749358,
+    "nombre": "WHISKAS GATO X 10",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 2175836,
+    "nombre": "WHISKAS SNACKS CARNE 40GRS",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 2175835,
+    "nombre": "WHISKAS SNACKS POLLO 40GRS",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 2175837,
+    "nombre": "WHISKAS SNACKS SALMON 40 GRS",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 1995750,
+    "nombre": "ZIMPI GATO X 10K",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 1995751,
+    "nombre": "ZIMPI GATO X15K",
+    "categoria": "gato",
+    "imagen": ""
+  },
+  {
+    "id": 1995752,
+    "nombre": "ZIMPI PERRO x 25/15",
+    "categoria": "perro",
+    "imagen": "/imagenes-perros/zimpi.jpg"
+  }
+]
