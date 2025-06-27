@@ -1,9 +1,10 @@
 [
-  {
+{
     "id": 1652720,
     "nombre": "7 VIDAS X 10",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/1.png"
+
   },
   {
     "id": 880958,
@@ -33,13 +34,13 @@
     "id": 2369484,
     "nombre": "AGILITY GATO ADULTO X 10",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/2.webp"
   },
   {
     "id": 2369542,
     "nombre": "AGILITY GATO URINARY X10",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/3.webp"
   },
   
   {
@@ -77,43 +78,19 @@
     "id": 757242,
     "nombre": "BANDEJA SANITARIA CHICA",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/4.jpg"
   },
   {
     "id": 757244,
     "nombre": "BANDEJA SANITARIA GRANDE",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/5.webp"
   },
   {
     "id": 757245,
     "nombre": "BANDEJA SANITARIA KIT",
     "categoria": "gato",
-    "imagen": ""
-  },
-  {
-    "id": 757255,
-    "nombre": "BANDEJA SANITARIA KIT ECONOMICO",
-    "categoria": "gato",
-    "imagen": ""
-  },
-  {
-    "id": 757243,
-    "nombre": "BANDEJA SANITARIA MEDIANA",
-    "categoria": "gato",
-    "imagen": ""
-  },
-  {
-    "id": 952434,
-    "nombre": "BANDEJA SANITARIA MEDIUM NEGRA NEW",
-    "categoria": "gato",
-    "imagen": ""
-  },
-  {
-    "id": 2318167,
-    "nombre": "BANDEJA SANITARIA NEGRA CHICA NEW PET",
-    "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/6.png"
   },
   {
     "id": 754793,
@@ -161,25 +138,25 @@
     "id": 748992,
     "nombre": "CAT CHOW GATITO X 15",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/7.webp"
   },
   {
     "id": 748387,
     "nombre": "CAT CHOW GATO X 15",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/8.jpg"
   },
   {
     "id": 943746,
     "nombre": "CATPRO CASTRADO 7.5",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/9.webp"
   },
   {
     "id": 844961,
     "nombre": "CATPRO URINARY X 15",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/10.webp"
   },
   {
     "id": 752957,
@@ -197,7 +174,7 @@
     "id": 819873,
     "nombre": "COLLAR ANTIPULGAS BABS  GATO",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/11.jpeg"
   },
   {
     "id": 760901,
@@ -283,7 +260,7 @@
     "id": 749065,
     "nombre": "GATI X 15",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/12.webp"
   },
   
   {
@@ -303,7 +280,7 @@
     "id": 749067,
     "nombre": "GAUCHO GATO X 15",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/13.jpeg"
   },
   {
     "id": 750889,
@@ -330,34 +307,10 @@
     "imagen": ""
   },
   {
-    "id": 748992,
-    "nombre": "CAT CHOW GATITO X 15",
-    "categoria": "gato",
-    "imagen": ""
-  },
-  {
-    "id": 748387,
-    "nombre": "CAT CHOW GATO X 15",
-    "categoria": "gato",
-    "imagen": ""
-  },
-  {
-    "id": 943746,
-    "nombre": "CATPRO CASTRADO 7.5",
-    "categoria": "gato",
-    "imagen": ""
-  },
-  {
-    "id": 844961,
-    "nombre": "CATPRO URINARY X 15",
-    "categoria": "gato",
-    "imagen": ""
-  },
-  {
     "id": 749071,
     "nombre": "KONGO GATITO X 8",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/14.png"
   },
   {
     "id": 749324,
@@ -375,7 +328,7 @@
     "id": 749320,
     "nombre": "SABROSITOS GATO X 20",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/15.webp"
   },
   {
     "id": 749271,
@@ -405,7 +358,7 @@
     "id": 822282,
     "nombre": "POUCH WHISKAS GATITO",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/16.webp"
   },
   
   {
@@ -418,13 +371,13 @@
     "id": 749274,
     "nombre": "RAZA GATITO X 8",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/17.webp"
   },
   {
     "id": 749275,
     "nombre": "RAZA GATO X 15",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/18.png"
   },
   {
     "id": 749252,
@@ -448,13 +401,13 @@
     "id": 749249,
     "nombre": "NATURE GATO X 8",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/19.webp"
   },
   {
     "id": 2465579,
     "nombre": "NUTRIBON GATO URINARIO XQ X 8",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/20.webp"
   },
   
   {
@@ -467,54 +420,2070 @@
     "id": 749356,
     "nombre": "VORAZ GATITO X 15",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/21.jpeg"
   },
   {
     "id": 749357,
     "nombre": "WHISKAS GATITO X 10",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/22.jpeg"
   },
   {
     "id": 749358,
     "nombre": "WHISKAS GATO X 10",
     "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/23.jpeg"
   },
-  {
-    "id": 2175836,
-    "nombre": "WHISKAS SNACKS CARNE 40GRS",
-    "categoria": "gato",
-    "imagen": ""
-  },
-  {
-    "id": 2175835,
-    "nombre": "WHISKAS SNACKS POLLO 40GRS",
-    "categoria": "gato",
-    "imagen": ""
-  },
-  {
-    "id": 2175837,
-    "nombre": "WHISKAS SNACKS SALMON 40 GRS",
-    "categoria": "gato",
-    "imagen": ""
-  },
+  
   {
     "id": 1995750,
-    "nombre": "ZIMPI GATO X 10K",
+    "nombre": "ZIMPI GATO X 10/15k",
     "categoria": "gato",
-    "imagen": ""
-  },
-  {
-    "id": 1995751,
-    "nombre": "ZIMPI GATO X15K",
-    "categoria": "gato",
-    "imagen": ""
+    "imagen": "/imagenes_producto_gatos/24.jpg"
   },
   {
     "id": 1995752,
     "nombre": "ZIMPI PERRO x 25/15",
     "categoria": "perro",
     "imagen": "/imagenes-perros/zimpi.jpg"
-  }
+  },
+    {
+        "id": 761597,
+        "nombre": "ALICATE CHICO",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 798207,
+        "nombre": "ALICATE TIJERA",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 924822,
+        "nombre": "ALMOHADON OVALADO N4 55X75CM",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 878944,
+        "nombre": "ALMOHADON OVALADO N5 65X85CM",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 878933,
+        "nombre": "ALMOHADON RECTANGULAR  N3 75X55CM",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 2318178,
+        "nombre": "ALMOHADON RECTANGULAR N5 95X75 FRISELINA",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 843295,
+        "nombre": "ALMOHADON RECTANGULAR NRO 4 95X65",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 843296,
+        "nombre": "ALMOHADÓN RECTANGULAR NRO 5 95X 75",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 1965768,
+        "nombre": "BALDE 12 L",
+        "categoria": "jardineria",
+        "imagen": ""
+    },
+    {
+        "id": 2452093,
+        "nombre": "BALDE 12 L COMUN",
+        "categoria": "limpieza",
+        "imagen": ""
+    },
+    {
+        "id": 2543378,
+        "nombre": "BANDEJA MINI VERDEO",
+        "categoria": "jardineria",
+        "imagen": ""
+    },
+    {
+        "id": 1401130,
+        "nombre": "CADENA DE ATAR N15 FINA",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 761772,
+        "nombre": "CADENA PASEO CHICA",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 1609222,
+        "nombre": "CARDINA DOBLE CON CEPILLO 9X5CM",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 2191469,
+        "nombre": "CARDINA MADERA CABO ROJO N1",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 761601,
+        "nombre": "CARDINA MADERA CHICA",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 774028,
+        "nombre": "CARDINA MADERA GRANDE",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 761818,
+        "nombre": "CARDINA MADERA MEDIANA",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 992344,
+        "nombre": "CARDINA PLASTICA CHICA",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 761602,
+        "nombre": "CARDINA PLASTICA GRANDE",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 879076,
+        "nombre": "CARDINA PLASTICA MEDIANA",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 761814,
+        "nombre": "CARTEL CUIDADO CON EL PERRO",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 2662014,
+        "nombre": "CATNIP OREJAS",
+        "categoria": "gato",
+        "imagen": "/imagenes_producto_gatos/25.webp"
+    },
+    {
+        "id": 2642227,
+        "nombre": "PALTA CATNIP",
+        "categoria": "gato",
+        "imagen": "/imagenes_producto_gatos/26.png"
+    },
+    {
+        "id": 2642225,
+        "nombre": "ESPONJA SILICONA PERRO",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 753297,
+        "nombre": "GUANTES AFELPADOS MAKE PEQUEÑOS",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 753266,
+        "nombre": "GUANTES MOTEADOS GRIS",
+        "categoria": "jardineria",
+        "imagen": ""
+    },
+    {
+        "id": 2762491,
+        "nombre": "HIERBA GATERA CON ADHESIVO",
+        "categoria": "gato",
+        "imagen": "/imagenes_producto_gatos/27.png"
+    },
+    {
+        "id": 2534093,
+        "nombre": "HIERBA GATERA CON PALITO",
+        "categoria": "",
+        "imagen": ""
+    },
+    {
+        "id": 2534094,
+        "nombre": "HIERBA GATERA CON PLUMAS",
+        "categoria": "gato",
+        "imagen": "/imagenes_producto_gatos/28.jpg"
+    },
+    {
+        "id": 1416866,
+        "nombre": "HUESO DE GOMA MACIZO GRANDE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1416865,
+        "nombre": "HUESO DE GOMA MACIZO MEDIANO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1370150,
+        "nombre": "HUESO SOGA CON 2 PELOTAS",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1155871,
+        "nombre": "HUESO Z PASTEL MORDILLO CHICO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818938,
+        "nombre": "IDENTIFICADOR HUESO CHICO METAL",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 2136380,
+        "nombre": "IDENTIFICADOR HUESO PLASTICO GRANDE",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 1466313,
+        "nombre": "JUGUETE ANTI ESTRES GRANDE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2473378,
+        "nombre": "JUGUETE BATIBOOMERANG",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2473375,
+        "nombre": "JUGUETE BIFE MEDIANO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2473374,
+        "nombre": "JUGUETE BOOMERANG",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818907,
+        "nombre": "JUGUETE CAÑITA (20)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818906,
+        "nombre": "JUGUETE CAÑITA CORAZON (19)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2318168,
+        "nombre": "JUGUETE CHANCHO A CUERDA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818888,
+        "nombre": "JUGUETE CON CHIFLE (9)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818881,
+        "nombre": "JUGUETE DIARIO VINILO (2)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1757599,
+        "nombre": "JUGUETE FRISBEE PLASTICO ECONOMICO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818905,
+        "nombre": "JUGUETE FRISBEE PLASTICO GRANDE (18)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818904,
+        "nombre": "JUGUETE FRISBEE PLASTICOBRILLO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1646814,
+        "nombre": "JUGUETE GALLINA CHICA 16CM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2130938,
+        "nombre": "JUGUETE GALLINA CHIFLE GRANDE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2450119,
+        "nombre": "JUGUETE HUESITO PORTA SNACK",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2136526,
+        "nombre": "JUGUETE HUESO ANTISARRO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1748860,
+        "nombre": "JUGUETE HUESO SOGA C/2 PELTAS40MM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1748859,
+        "nombre": "JUGUETE HUESO SOGA C/PELOTA 40MM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2154100,
+        "nombre": "JUGUETE JUMPER CHICO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818897,
+        "nombre": "JUGUETE LANZA DISCOS (15)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 761823,
+        "nombre": "JUGUETE LANZA PELOTA (16)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818889,
+        "nombre": "JUGUETE MORDILLO (10)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1348068,
+        "nombre": "JUGUETE MORDILLO CHUPETTE CHICO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2318170,
+        "nombre": "JUGUETE MORDILLO CON PELOTA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2318169,
+        "nombre": "JUGUETE MORDILLO DOUBLE BITE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2154098,
+        "nombre": "JUGUETE MORDILLO PORTA SNACK",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2473376,
+        "nombre": "JUGUETE MORDILLO SPINER",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2822905,
+        "nombre": "JUGUETE PALITO C/RATA CASABEL CHICO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2822902,
+        "nombre": "JUGUETE PALITO DE METAL CON GUSANO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2248360,
+        "nombre": "JUGUETE PALITO DE METAL CON RATA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2136527,
+        "nombre": "JUGUETE PATA POLLO C/CHIFLE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 844209,
+        "nombre": "JUGUETE PELOTA ACRILICA X 4 (28)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2822898,
+        "nombre": "JUGUETE PELOTA BASQUET GRANDE CON CHIFLE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 844193,
+        "nombre": "JUGUETE PELOTA CHICA SONAJERO X 4 (27)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2567085,
+        "nombre": "JUGUETE PELOTA CON BOLITAS",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2248335,
+        "nombre": "JUGUETE PELOTA DE GOMA 6.5CM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818908,
+        "nombre": "JUGUETE PELOTA FUTBOL X 6 (21)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2634968,
+        "nombre": "JUGUETE PELOTA GOMA BASQUET 90MM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1141183,
+        "nombre": "JUGUETE PELOTA HILO X 4",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818895,
+        "nombre": "JUGUETE PELOTA MACIZA GRANDE(13)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818894,
+        "nombre": "JUGUETE PELOTA MACIZA MEDIANA (12) 57 MM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1537607,
+        "nombre": "JUGUETE PELOTA TENIS",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2473377,
+        "nombre": "JUGUETE PESCADITO GOMA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1646820,
+        "nombre": "JUGUETE RATA BRILLO CASCABEL C/PELOTA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1373403,
+        "nombre": "JUGUETE RATITA BASE C/ RESORTE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818910,
+        "nombre": "JUGUETE RATITA MINI X 3 (23)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818913,
+        "nombre": "JUGUETE RATITA NACIONAL (26)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2567067,
+        "nombre": "JUGUETE SOGA / NUDDO CHICO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1155870,
+        "nombre": "JUGUETE SOGA 7 TRENZA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1239955,
+        "nombre": "JUGUETE SOGA NUDO TRENZA + ARO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2318175,
+        "nombre": "JUGUETE SOGA SURTIDO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1755445,
+        "nombre": "JUGUETE SOGA TIRADOR + PELOTA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1332659,
+        "nombre": "JUGUETE SOPORTE+TAMBOR+PELOTA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2248338,
+        "nombre": "JUGUETE TORTUGA A CUERDA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2543385,
+        "nombre": "JUGUETE VAIVEN CON PLUMAS",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1405332,
+        "nombre": "JUGUETE VARITA GATO C / POMPON",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1154584,
+        "nombre": "JUGUETE VINILO RUEDA C/CHIFLE 10X10X4",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818859,
+        "nombre": "GUANTE PELOS",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 753078,
+        "nombre": "PIEDRA ABSSORSOL VERDE 2",
+        "categoria": "gato",
+        "imagen": "/imagenes_producto_gatos/29.jpg"
+    },
+    {
+        "id": 753082,
+        "nombre": "PIEDRA LAVANDA 3.6",
+        "categoria": "gato",
+        "imagen": "/imagenes_producto_gatos/30.png"
+    },
+    {
+        "id": 753081,
+        "nombre": "PIEDRA LIMON 3.6",
+        "categoria": "gato",
+        "imagen": "/imagenes_producto_gatos/31.webp"
+    },
+    {
+        "id": 753100,
+        "nombre": "PIEDRA SANICAT 2",
+        "categoria": "gato",
+        "imagen": "/imagenes_producto_gatos/32.png"
+    },
+    {
+        "id": 762254,
+        "nombre": "PIEDRA SUELTA",
+        "categoria": "gato",
+        "imagen": "/imagenes_producto_gatos/33.jpg"
+    },
+    {
+        "id": 752101,
+        "nombre": "PIPETA ELMER GATO + 4",
+        "categoria": "gato",
+        "imagen": "/imagenes_producto_gatos/34.webp"
+    },
+    {
+        "id": 752100,
+        "nombre": "PIPETA ELMER GATO 1- 4",
+        "categoria": "gato",
+        "imagen": "/imagenes_producto_gatos/35.webp"
+    },
+    {
+        "id": 752104,
+        "nombre": "PIPETA ELMER PERRO 10 - 25",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752105,
+        "nombre": "PIPETA ELMER PERRO 25 - 40",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752103,
+        "nombre": "PIPETA ELMER PERRO 4 - 10",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752106,
+        "nombre": "PIPETA ELMER PERRO 40 - 60",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752102,
+        "nombre": "PIPETA ELMER PERRO HASTA 4",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 2302070,
+        "nombre": "RASCADOR CILINDRO MEDIANO AGATAR 20X8CM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2318174,
+        "nombre": "RASCADOR MINI SIMON AGATAR 29X21X49",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2590337,
+        "nombre": "RASCADOR PIRAMIDE GUIZA AGATAR 12CM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2738691,
+        "nombre": "RASCADOR RECTO CHICO AGATAR 20 X11.5X4CM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2662009,
+        "nombre": "RASCADOR RECTO GRANDE 50X12X2",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2694462,
+        "nombre": "RASCADOR ZOO RATON AGATAR 15X14X12CM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2318171,
+        "nombre": "RATA ACRILICA C/SONAJERO Y PELOTA SISAL",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1359449,
+        "nombre": "RATITA C/CHIFLE X 4",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1141182,
+        "nombre": "RATITA COLOR MEDIANA SOGA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2797631,
+        "nombre": "RATITA X9 C/U",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1373401,
+        "nombre": "PEINE METAL DIENTES DISCONTINUOS",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 761820,
+        "nombre": "PEINE METALICO",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 2797658,
+        "nombre": "PELOTA ANTI ESTRES CHICA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2797729,
+        "nombre": "PELOTA ANTI ESTRES GRANDE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2587605,
+        "nombre": "PELOTA CON MOVIMIENTO USB GATO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2375011,
+        "nombre": "PELOTA DOSIFICADORA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1320624,
+        "nombre": "PELOTA FUTBOL CHICA C/CHIFLE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2567045,
+        "nombre": "PELOTA GOMA BASQUET",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2543383,
+        "nombre": "PELOTA LENGUA CON LUZ",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2519290,
+        "nombre": "PELOTA RUGBY CON PICHES",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1928065,
+        "nombre": "PELOTA RUGBY RASCAL",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1416867,
+        "nombre": "PELOTA SELFIE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2587597,
+        "nombre": "PELOTA VOLADORA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 752198,
+        "nombre": "TOTAL FULL CHICOS HASTA 10",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 752864,
+        "nombre": "TOTAL FULL GATO",
+        "categoria": "gato",
+        "imagen": "/imagenes_producto_gatos/36.jpg"
+    },
+    {
+        "id": 752199,
+        "nombre": "TOTAL FULL GRANDES HASTA 60",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752197,
+        "nombre": "TOTAL FULL MEDIANOS HASTA 20",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752131,
+        "nombre": "PASTILLAS POWER 10- 20",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 752129,
+        "nombre": "PASTILLAS POWER 2 - 5",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 752132,
+        "nombre": "PASTILLAS POWER 20 - 30",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 752133,
+        "nombre": "PASTILLAS POWER 30 - 40",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 752130,
+        "nombre": "PASTILLAS POWER 5 - 10",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 752179,
+        "nombre": "PASTILLA SIMPARICA PERRO 10 - 20",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752177,
+        "nombre": "PASTILLA SIMPARICA PERRO 2.5 - 5",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752178,
+        "nombre": "PASTILLA SIMPARICA PERRO 20 - 40",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 843661,
+        "nombre": "PASTILLA SIMPARICA PERRO 40 - 60",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752176,
+        "nombre": "PASTILLA SIMPARICA PERRO 5 - 10",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 753010,
+        "nombre": "SHAMPOO  ELMER PULGA Y GARRAPATA",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 752232,
+        "nombre": "SHAMPOO OSSPRET  2 EN 1",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 2122068,
+        "nombre": "SHAMPOO OSSPRET ALOE Y AVENA 250CC",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 2098605,
+        "nombre": "SHAMPOO OSSPRET AQUA ECTHO",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 752229,
+        "nombre": "SHAMPOO OSSPRET CACHORRO",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752763,
+        "nombre": "SHAMPOO OSSPRET GATO",
+        "categoria": "gato",
+        "imagen": "/imagenes_producto_gatos/37.webp"
+    },
+    {
+        "id": 752228,
+        "nombre": "SHAMPOO OSSPRET HIPOALARGENICO",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752230,
+        "nombre": "SHAMPOO OSSPRET PERFUMADO",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752231,
+        "nombre": "SHAMPOO OSSPRET TRADICIONAL",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 773848,
+        "nombre": "TALCO ELMER",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 761599,
+        "nombre": "SACA NUDO",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 2083119,
+        "nombre": "MEDALLA FACIL GRABADO CORAZON",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 2083120,
+        "nombre": "MEDALLA FACIL GRABADO PESCADO",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 2543381,
+        "nombre": "MEDALLA INTELIGENTE",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 2534096,
+        "nombre": "MEDDALLA O HUELLA PREMIUM",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 2652616,
+        "nombre": "VARITA CON PLUMAS Y CASCABEL",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2375005,
+        "nombre": "VASO CLEAN CHICO",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 761600,
+        "nombre": "MANOPLA CEPILLO MINI NEW",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 2529834,
+        "nombre": "POLLO CHIFLE DE COLORES",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2543392,
+        "nombre": "PORTA ESPIRAL GORRION",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1511900,
+        "nombre": "PORTA SAHUMERIO CERAMICA",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1378765,
+        "nombre": "PORTA SAHUMERIOS",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1398429,
+        "nombre": "TABLITAS PORTA SAHUMERIO",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 753347,
+        "nombre": "SAGRADA MADRE PALO SANTO CON ...",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1446434,
+        "nombre": "SAGRADA MADRE PALO SANTO REBOZADO",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1345183,
+        "nombre": "SAGRADA MADRE PIRAMIDE ENERGETICA",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1181351,
+        "nombre": "SAGRADA MADRE SAHUMERIO 7 CHACRAS",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1088778,
+        "nombre": "SAGRADA MADRE SAHUMERIO SATYA NAG CHAMPA",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1201082,
+        "nombre": "SAGRADA MADRE SAHUMERIO YAGRA",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1345181,
+        "nombre": "SAGRADA MADRE TIBETANOS",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1398393,
+        "nombre": "SAHUMADORESS CERAMICA",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1527150,
+        "nombre": "SAHUMERIO AGRADA MADRE PATAGONIA",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 2225648,
+        "nombre": "SAHUMERIO BANJARA",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1088775,
+        "nombre": "SAHUMERIO BOTANICA SAGRADA MADRE",
+        "categoria": "sahumerio",
+        "imagen":""
+    },
+    {
+        "id": 2543384,
+        "nombre": "AEROSOL PULGUICIDA YOUNG",
+        "categoria": "veneno",
+        "imagen": ""
+    },
+    {
+        "id": 761597,
+        "nombre": "ALICATE CHICO",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 924822,
+        "nombre": "ALMOHADON OVALADO N4 55X75CM",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 878944,
+        "nombre": "ALMOHADON OVALADO N5 65X85CM",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 878933,
+        "nombre": "ALMOHADON RECTANGULAR  N3 75X55CM",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 2318178,
+        "nombre": "ALMOHADON RECTANGULAR N5 95X75 FRISELINA",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 843295,
+        "nombre": "ALMOHADON RECTANGULAR NRO 4 95X65",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 843296,
+        "nombre": "ALMOHADÓN RECTANGULAR NRO 5 95X 75",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 1965768,
+        "nombre": "BALDE 12 L",
+        "categoria": "jardineria",
+        "imagen": ""
+    },
+    {
+        "id": 2452093,
+        "nombre": "BALDE 12 L COMUN",
+        "categoria": "limpieza",
+        "imagen": ""
+    },
+    {
+        "id": 2543378,
+        "nombre": "BANDEJA MINI VERDEO",
+        "categoria": "jardineria",
+        "imagen": ""
+    },
+    {
+        "id": 1401130,
+        "nombre": "CADENA DE ATAR N15 FINA",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 761772,
+        "nombre": "CADENA PASEO CHICA",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 1609222,
+        "nombre": "CARDINA DOBLE CON CEPILLO 9X5CM",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 2191469,
+        "nombre": "CARDINA MADERA CABO ROJO N1",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 761601,
+        "nombre": "CARDINA MADERA CHICA",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 774028,
+        "nombre": "CARDINA MADERA GRANDE",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 761818,
+        "nombre": "CARDINA MADERA MEDIANA",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 992344,
+        "nombre": "CARDINA PLASTICA CHICA",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 761602,
+        "nombre": "CARDINA PLASTICA GRANDE",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 879076,
+        "nombre": "CARDINA PLASTICA MEDIANA",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 761814,
+        "nombre": "CARTEL CUIDADO CON EL PERRO",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    
+    {
+        "id": 2642225,
+        "nombre": "ESPONJA SILICONA PERRO",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 753297,
+        "nombre": "GUANTES AFELPADOS MAKE PEQUEÑOS",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 753266,
+        "nombre": "GUANTES MOTEADOS GRIS",
+        "categoria": "jardineria",
+        "imagen": ""
+    },
+    
+    {
+        "id": 1416866,
+        "nombre": "HUESO DE GOMA MACIZO GRANDE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1416865,
+        "nombre": "HUESO DE GOMA MACIZO MEDIANO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1370150,
+        "nombre": "HUESO SOGA CON 2 PELOTAS",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1155871,
+        "nombre": "HUESO Z PASTEL MORDILLO CHICO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818938,
+        "nombre": "IDENTIFICADOR HUESO CHICO METAL",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 2136380,
+        "nombre": "IDENTIFICADOR HUESO PLASTICO GRANDE",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 1466313,
+        "nombre": "JUGUETE ANTI ESTRES GRANDE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2473378,
+        "nombre": "JUGUETE BATIBOOMERANG",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2473375,
+        "nombre": "JUGUETE BIFE MEDIANO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2473374,
+        "nombre": "JUGUETE BOOMERANG",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818907,
+        "nombre": "JUGUETE CAÑITA (20)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818906,
+        "nombre": "JUGUETE CAÑITA CORAZON (19)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2318168,
+        "nombre": "JUGUETE CHANCHO A CUERDA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818888,
+        "nombre": "JUGUETE CON CHIFLE (9)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818881,
+        "nombre": "JUGUETE DIARIO VINILO (2)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1757599,
+        "nombre": "JUGUETE FRISBEE PLASTICO ECONOMICO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818905,
+        "nombre": "JUGUETE FRISBEE PLASTICO GRANDE (18)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818904,
+        "nombre": "JUGUETE FRISBEE PLASTICOBRILLO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1646814,
+        "nombre": "JUGUETE GALLINA CHICA 16CM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2130938,
+        "nombre": "JUGUETE GALLINA CHIFLE GRANDE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2450119,
+        "nombre": "JUGUETE HUESITO PORTA SNACK",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2136526,
+        "nombre": "JUGUETE HUESO ANTISARRO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1748860,
+        "nombre": "JUGUETE HUESO SOGA C/2 PELTAS40MM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1748859,
+        "nombre": "JUGUETE HUESO SOGA C/PELOTA 40MM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2154100,
+        "nombre": "JUGUETE JUMPER CHICO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818897,
+        "nombre": "JUGUETE LANZA DISCOS (15)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 761823,
+        "nombre": "JUGUETE LANZA PELOTA (16)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818889,
+        "nombre": "JUGUETE MORDILLO (10)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1348068,
+        "nombre": "JUGUETE MORDILLO CHUPETTE CHICO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2318170,
+        "nombre": "JUGUETE MORDILLO CON PELOTA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2318169,
+        "nombre": "JUGUETE MORDILLO DOUBLE BITE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2154098,
+        "nombre": "JUGUETE MORDILLO PORTA SNACK",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2473376,
+        "nombre": "JUGUETE MORDILLO SPINER",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2822905,
+        "nombre": "JUGUETE PALITO C/RATA CASABEL CHICO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2822902,
+        "nombre": "JUGUETE PALITO DE METAL CON GUSANO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2248360,
+        "nombre": "JUGUETE PALITO DE METAL CON RATA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2136527,
+        "nombre": "JUGUETE PATA POLLO C/CHIFLE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 844209,
+        "nombre": "JUGUETE PELOTA ACRILICA X 4 (28)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2822898,
+        "nombre": "JUGUETE PELOTA BASQUET GRANDE CON CHIFLE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 844193,
+        "nombre": "JUGUETE PELOTA CHICA SONAJERO X 4 (27)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2567085,
+        "nombre": "JUGUETE PELOTA CON BOLITAS",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2248335,
+        "nombre": "JUGUETE PELOTA DE GOMA 6.5CM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818908,
+        "nombre": "JUGUETE PELOTA FUTBOL X 6 (21)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2634968,
+        "nombre": "JUGUETE PELOTA GOMA BASQUET 90MM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1141183,
+        "nombre": "JUGUETE PELOTA HILO X 4",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818895,
+        "nombre": "JUGUETE PELOTA MACIZA GRANDE(13)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818894,
+        "nombre": "JUGUETE PELOTA MACIZA MEDIANA (12) 57 MM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1537607,
+        "nombre": "JUGUETE PELOTA TENIS",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2473377,
+        "nombre": "JUGUETE PESCADITO GOMA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1646820,
+        "nombre": "JUGUETE RATA BRILLO CASCABEL C/PELOTA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1373403,
+        "nombre": "JUGUETE RATITA BASE C/ RESORTE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818910,
+        "nombre": "JUGUETE RATITA MINI X 3 (23)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818913,
+        "nombre": "JUGUETE RATITA NACIONAL (26)",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2567067,
+        "nombre": "JUGUETE SOGA / NUDDO CHICO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1155870,
+        "nombre": "JUGUETE SOGA 7 TRENZA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1239955,
+        "nombre": "JUGUETE SOGA NUDO TRENZA + ARO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2318175,
+        "nombre": "JUGUETE SOGA SURTIDO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1755445,
+        "nombre": "JUGUETE SOGA TIRADOR + PELOTA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1332659,
+        "nombre": "JUGUETE SOPORTE+TAMBOR+PELOTA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2248338,
+        "nombre": "JUGUETE TORTUGA A CUERDA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2543385,
+        "nombre": "JUGUETE VAIVEN CON PLUMAS",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1405332,
+        "nombre": "JUGUETE VARITA GATO C / POMPON",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1154584,
+        "nombre": "JUGUETE VINILO RUEDA C/CHIFLE 10X10X4",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 818859,
+        "nombre": "GUANTE PELOS",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    
+    {
+        "id": 752104,
+        "nombre": "PIPETA ELMER PERRO 10 - 25",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752105,
+        "nombre": "PIPETA ELMER PERRO 25 - 40",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752103,
+        "nombre": "PIPETA ELMER PERRO 4 - 10",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752106,
+        "nombre": "PIPETA ELMER PERRO 40 - 60",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752102,
+        "nombre": "PIPETA ELMER PERRO HASTA 4",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 2302070,
+        "nombre": "RASCADOR CILINDRO MEDIANO AGATAR 20X8CM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2318174,
+        "nombre": "RASCADOR MINI SIMON AGATAR 29X21X49",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2590337,
+        "nombre": "RASCADOR PIRAMIDE GUIZA AGATAR 12CM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2738691,
+        "nombre": "RASCADOR RECTO CHICO AGATAR 20 X11.5X4CM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2662009,
+        "nombre": "RASCADOR RECTO GRANDE 50X12X2",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2694462,
+        "nombre": "RASCADOR ZOO RATON AGATAR 15X14X12CM",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2318171,
+        "nombre": "RATA ACRILICA C/SONAJERO Y PELOTA SISAL",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1359449,
+        "nombre": "RATITA C/CHIFLE X 4",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1141182,
+        "nombre": "RATITA COLOR MEDIANA SOGA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2797631,
+        "nombre": "RATITA X9 C/U",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1373401,
+        "nombre": "PEINE METAL DIENTES DISCONTINUOS",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 761820,
+        "nombre": "PEINE METALICO",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 2797658,
+        "nombre": "PELOTA ANTI ESTRES CHICA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2797729,
+        "nombre": "PELOTA ANTI ESTRES GRANDE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2587605,
+        "nombre": "PELOTA CON MOVIMIENTO USB GATO",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2375011,
+        "nombre": "PELOTA DOSIFICADORA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1320624,
+        "nombre": "PELOTA FUTBOL CHICA C/CHIFLE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2567045,
+        "nombre": "PELOTA GOMA BASQUET",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2543383,
+        "nombre": "PELOTA LENGUA CON LUZ",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2519290,
+        "nombre": "PELOTA RUGBY CON PICHES",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1928065,
+        "nombre": "PELOTA RUGBY RASCAL",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 1416867,
+        "nombre": "PELOTA SELFIE",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2587597,
+        "nombre": "PELOTA VOLADORA",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 752198,
+        "nombre": "TOTAL FULL CHICOS HASTA 10",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 752199,
+        "nombre": "TOTAL FULL GRANDES HASTA 60",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752197,
+        "nombre": "TOTAL FULL MEDIANOS HASTA 20",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752131,
+        "nombre": "PASTILLAS POWER 10- 20",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 752129,
+        "nombre": "PASTILLAS POWER 2 - 5",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 752132,
+        "nombre": "PASTILLAS POWER 20 - 30",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 752133,
+        "nombre": "PASTILLAS POWER 30 - 40",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 752130,
+        "nombre": "PASTILLAS POWER 5 - 10",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 752179,
+        "nombre": "PASTILLA SIMPARICA PERRO 10 - 20",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752177,
+        "nombre": "PASTILLA SIMPARICA PERRO 2.5 - 5",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752178,
+        "nombre": "PASTILLA SIMPARICA PERRO 20 - 40",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 843661,
+        "nombre": "PASTILLA SIMPARICA PERRO 40 - 60",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752176,
+        "nombre": "PASTILLA SIMPARICA PERRO 5 - 10",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 753010,
+        "nombre": "SHAMPOO  ELMER PULGA Y GARRAPATA",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 752232,
+        "nombre": "SHAMPOO OSSPRET  2 EN 1",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 2122068,
+        "nombre": "SHAMPOO OSSPRET ALOE Y AVENA 250CC",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 2098605,
+        "nombre": "SHAMPOO OSSPRET AQUA ECTHO",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 752229,
+        "nombre": "SHAMPOO OSSPRET CACHORRO",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    
+    {
+        "id": 752228,
+        "nombre": "SHAMPOO OSSPRET HIPOALARGENICO",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752230,
+        "nombre": "SHAMPOO OSSPRET PERFUMADO",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 752231,
+        "nombre": "SHAMPOO OSSPRET TRADICIONAL",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 773848,
+        "nombre": "TALCO ELMER",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 761599,
+        "nombre": "SACA NUDO",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 2083119,
+        "nombre": "MEDALLA FACIL GRABADO CORAZON",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 2083120,
+        "nombre": "MEDALLA FACIL GRABADO PESCADO",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 2543381,
+        "nombre": "MEDALLA INTELIGENTE",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 2534096,
+        "nombre": "MEDDALLA O HUELLA PREMIUM",
+        "categoria": "perro y gato",
+        "imagen": ""
+    },
+    {
+        "id": 2652616,
+        "nombre": "VARITA CON PLUMAS Y CASCABEL",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2375005,
+        "nombre": "VASO CLEAN CHICO",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 761600,
+        "nombre": "MANOPLA CEPILLO MINI NEW",
+        "categoria": "perro",
+        "imagen": ""
+    },
+    {
+        "id": 2529834,
+        "nombre": "POLLO CHIFLE DE COLORES",
+        "categoria": "juguete",
+        "imagen": ""
+    },
+    {
+        "id": 2543392,
+        "nombre": "PORTA ESPIRAL GORRION",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1511900,
+        "nombre": "PORTA SAHUMERIO CERAMICA",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1378765,
+        "nombre": "PORTA SAHUMERIOS",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1398429,
+        "nombre": "TABLITAS PORTA SAHUMERIO",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 753347,
+        "nombre": "SAGRADA MADRE PALO SANTO CON ...",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1446434,
+        "nombre": "SAGRADA MADRE PALO SANTO REBOZADO",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1345183,
+        "nombre": "SAGRADA MADRE PIRAMIDE ENERGETICA",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1181351,
+        "nombre": "SAGRADA MADRE SAHUMERIO 7 CHACRAS",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1088778,
+        "nombre": "SAGRADA MADRE SAHUMERIO SATYA NAG CHAMPA",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1201082,
+        "nombre": "SAGRADA MADRE SAHUMERIO YAGRA",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1345181,
+        "nombre": "SAGRADA MADRE TIBETANOS",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1398393,
+        "nombre": "SAHUMADORESS CERAMICA",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 1527150,
+        "nombre": "SAHUMERIO AGRADA MADRE PATAGONIA",
+        "categoria": "sahumerio",
+        "imagen": ""
+    },
+    {
+        "id": 2225648,
+        "nombre": "SAHUMERIO BANJARA",
+        "categoria": "sahumerio",
+        "imagen": ""
+    }
+    
 ]

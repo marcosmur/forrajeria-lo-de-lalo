@@ -29,6 +29,10 @@ return (
         <div className={`${dropdownOpen ? 'block' : 'hidden'} w-full md:block md:w-auto`}>
         <ul className="flex flex-col md:flex-row md:space-x-8 mt-4 md:mt-0 text-white">
             <li><a href="/gardening" className="block py-2 px-3 hover:underline">Jardinería</a></li>
+            <li><a href="" className="block py-2 px-3 hover:underline">sahumerio</a></li>
+            <li><a href="" className="block py-2 px-3 hover:underline">varios</a></li>
+
+
             <li className="relative">
             <button
                 onClick={() => setDropdownOpen(!dropdownOpen)}
@@ -44,10 +48,13 @@ return (
                 <ul className="text-white text-sm">
                     <li><a href="/pets-dogs" className="block px-4 py-2 hover:bg-red-600">Perros</a></li>
                     <li><a href="/pets-cats" className="block px-4 py-2 hover:bg-red-600">Gatos</a></li>
-                    <li><a href="/pet-birds" className="block px-4 py-2 hover:bg-red-600">Pájaros</a></li>
+                    <li><a href="/pet-birds" className="block px-4 py-2 hover:bg-red-600">perros y gatos</a></li>
                 </ul>
                 </div>
+                
             )}
+            
+            
             </li>
             <li><a href="/poison" className="block py-2 px-3 hover:underline">Venenos</a></li>
             <li><a href="/location-hours" className="block py-2 px-3 hover:underline">Ubicación y horarios</a></li>
