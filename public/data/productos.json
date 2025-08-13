@@ -56,24 +56,7 @@
     "categoria": "perro",
     "imagen": "/imagenes-perros/arroz.webp"
   },
-  {
-    "id": 750906,
-    "nombre": "BABOSIL CEBO 200",
-    "categoria": "veneno",
-    "imagen": ""
-  },
-  {
-    "id": 750907,
-    "nombre": "BABOSIL LIQUIDO 100",
-    "categoria": "veneno",
-    "imagen": ""
-  },
-  {
-    "id": 750908,
-    "nombre": "BABOSIL MICROPELLETS 100",
-    "categoria": "veneno",
-    "imagen": ""
-  },
+
   {
     "id": 757242,
     "nombre": "BANDEJA SANITARIA CHICA",
@@ -92,30 +75,7 @@
     "categoria": "gato",
     "imagen": "/imagenes_producto_gatos/6.png"
   },
-  {
-    "id": 754793,
-    "nombre": "BARRE HOJAS 60 CM NARANJA",
-    "categoria": "jardineria",
-    "imagen": ""
-  },
-  {
-    "id": 754794,
-    "nombre": "BARRE HOJAS COMUN",
-    "categoria": "jardineria",
-    "imagen": ""
-  },
-  {
-    "id": 752034,
-    "nombre": "BAYGON VERDE CUCARACHAS AEROSOL 300",
-    "categoria": "veneno",
-    "imagen": ""
-  },
-  {
-    "id": 761623,
-    "nombre": "BEBEDERO PICAFLOR SIN SOPORTE",
-    "categoria": "jardineria",
-    "imagen": ""
-  },
+  
   {
     "id": 747888,
     "nombre": "BIOPET A. PEQUEÑO X 15",
@@ -157,18 +117,6 @@
     "nombre": "CATPRO URINARY X 15",
     "categoria": "gato",
     "imagen": "/imagenes_producto_gatos/10.webp"
-  },
-  {
-    "id": 752957,
-    "nombre": "CESPED GOLD PACK MEDIA SOMBRA",
-    "categoria": "jardineria",
-    "imagen": ""
-  },
-  {
-    "id": 1177715,
-    "nombre": "CESPED GOLD-PACK PIOTEO 400GRSS",
-    "categoria": "jardineria",
-    "imagen": ""
   },
   {
     "id": 819873,
@@ -226,12 +174,7 @@
     "categoria": "perro",
     "imagen": "/imagenes-perros/cachorro dog chow.jpg"
   },
-  {
-    "id": 752878,
-    "nombre": "DOG OUT",
-    "categoria": "veneno",
-    "imagen": ""
-  },
+  
   {
     "id": 749024,
     "nombre": "DOG PRO ADULTO X 20",
@@ -282,30 +225,7 @@
     "categoria": "gato",
     "imagen": "/imagenes_producto_gatos/13.jpeg"
   },
-  {
-    "id": 750889,
-    "nombre": "GELTEK JERINGA CUCARACHA 12",
-    "categoria": "veneno",
-    "imagen": ""
-  },
-  {
-    "id": 750888,
-    "nombre": "GELTEK JERINGA CUCARACHA 6",
-    "categoria": "veneno",
-    "imagen": ""
-  },
-  {
-    "id": 750887,
-    "nombre": "GELTEK JERINGA HORMIGA 12",
-    "categoria": "veneno",
-    "imagen": ""
-  },
-  {
-    "id": 750886,
-    "nombre": "GELTEK JERINGA HORMIGA 6",
-    "categoria": "veneno",
-    "imagen": ""
-  },
+
   {
     "id": 749071,
     "nombre": "KONGO GATITO X 8",
@@ -495,24 +415,14 @@
         "categoria": "perro y gato",
         "imagen": ""
     },
-    {
-        "id": 1965768,
-        "nombre": "BALDE 12 L",
-        "categoria": "jardineria",
-        "imagen": ""
-    },
+    
     {
         "id": 2452093,
         "nombre": "BALDE 12 L COMUN",
         "categoria": "limpieza",
         "imagen": ""
     },
-    {
-        "id": 2543378,
-        "nombre": "BANDEJA MINI VERDEO",
-        "categoria": "jardineria",
-        "imagen": ""
-    },
+    
     {
         "id": 1401130,
         "nombre": "CADENA DE ATAR N15 FINA",
@@ -603,12 +513,7 @@
         "categoria": "perro",
         "imagen": ""
     },
-    {
-        "id": 753266,
-        "nombre": "GUANTES MOTEADOS GRIS",
-        "categoria": "jardineria",
-        "imagen": ""
-    },
+    
     {
         "id": 2762491,
         "nombre": "HIERBA GATERA CON ADHESIVO",
@@ -1419,102 +1324,7 @@
         "categoria": "juguete",
         "imagen": ""
     },
-    {
-        "id": 2543392,
-        "nombre": "PORTA ESPIRAL GORRION",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1511900,
-        "nombre": "PORTA SAHUMERIO CERAMICA",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1378765,
-        "nombre": "PORTA SAHUMERIOS",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1398429,
-        "nombre": "TABLITAS PORTA SAHUMERIO",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 753347,
-        "nombre": "SAGRADA MADRE PALO SANTO CON ...",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1446434,
-        "nombre": "SAGRADA MADRE PALO SANTO REBOZADO",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1345183,
-        "nombre": "SAGRADA MADRE PIRAMIDE ENERGETICA",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1181351,
-        "nombre": "SAGRADA MADRE SAHUMERIO 7 CHACRAS",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1088778,
-        "nombre": "SAGRADA MADRE SAHUMERIO SATYA NAG CHAMPA",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1201082,
-        "nombre": "SAGRADA MADRE SAHUMERIO YAGRA",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1345181,
-        "nombre": "SAGRADA MADRE TIBETANOS",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1398393,
-        "nombre": "SAHUMADORESS CERAMICA",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1527150,
-        "nombre": "SAHUMERIO AGRADA MADRE PATAGONIA",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 2225648,
-        "nombre": "SAHUMERIO BANJARA",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1088775,
-        "nombre": "SAHUMERIO BOTANICA SAGRADA MADRE",
-        "categoria": "sahumerio",
-        "imagen":""
-    },
-    {
-        "id": 2543384,
-        "nombre": "AEROSOL PULGUICIDA YOUNG",
-        "categoria": "veneno",
-        "imagen": ""
-    },
+
     {
         "id": 761597,
         "nombre": "ALICATE CHICO",
@@ -1557,24 +1367,14 @@
         "categoria": "perro y gato",
         "imagen": ""
     },
-    {
-        "id": 1965768,
-        "nombre": "BALDE 12 L",
-        "categoria": "jardineria",
-        "imagen": ""
-    },
+    
     {
         "id": 2452093,
         "nombre": "BALDE 12 L COMUN",
         "categoria": "limpieza",
         "imagen": ""
     },
-    {
-        "id": 2543378,
-        "nombre": "BANDEJA MINI VERDEO",
-        "categoria": "jardineria",
-        "imagen": ""
-    },
+   
     {
         "id": 1401130,
         "nombre": "CADENA DE ATAR N15 FINA",
@@ -1654,13 +1454,6 @@
         "categoria": "perro",
         "imagen": ""
     },
-    {
-        "id": 753266,
-        "nombre": "GUANTES MOTEADOS GRIS",
-        "categoria": "jardineria",
-        "imagen": ""
-    },
-    
     {
         "id": 1416866,
         "nombre": "HUESO DE GOMA MACIZO GRANDE",
@@ -2401,89 +2194,217 @@
         "categoria": "juguete",
         "imagen": ""
     },
-    {
-        "id": 2543392,
-        "nombre": "PORTA ESPIRAL GORRION",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1511900,
-        "nombre": "PORTA SAHUMERIO CERAMICA",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1378765,
-        "nombre": "PORTA SAHUMERIOS",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1398429,
-        "nombre": "TABLITAS PORTA SAHUMERIO",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 753347,
-        "nombre": "SAGRADA MADRE PALO SANTO CON ...",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1446434,
-        "nombre": "SAGRADA MADRE PALO SANTO REBOZADO",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1345183,
-        "nombre": "SAGRADA MADRE PIRAMIDE ENERGETICA",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1181351,
-        "nombre": "SAGRADA MADRE SAHUMERIO 7 CHACRAS",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1088778,
-        "nombre": "SAGRADA MADRE SAHUMERIO SATYA NAG CHAMPA",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1201082,
-        "nombre": "SAGRADA MADRE SAHUMERIO YAGRA",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1345181,
-        "nombre": "SAGRADA MADRE TIBETANOS",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1398393,
-        "nombre": "SAHUMADORESS CERAMICA",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 1527150,
-        "nombre": "SAHUMERIO AGRADA MADRE PATAGONIA",
-        "categoria": "sahumerio",
-        "imagen": ""
-    },
-    {
-        "id": 2225648,
-        "nombre": "SAHUMERIO BANJARA",
-        "categoria": "sahumerio",
-        "imagen": ""
-    }
+
     
+    { "id": 750906, "nombre": "BABOSIL CEBO 200", "categoria": "veneno", "imagen": "" },
+    { "id": 750907, "nombre": "BABOSIL LIQUIDO 100", "categoria": "veneno", "imagen": "" },
+    { "id": 750908, "nombre": "BABOSIL MICROPELLETS 100", "categoria": "veneno", "imagen": "" },
+    { "id": 752034, "nombre": "BAYGON VERDE CUCARACHAS AEROSOL 300", "categoria": "veneno", "imagen": "" },
+    { "id": 752878, "nombre": "DOG OUT", "categoria": "veneno", "imagen": "" },
+    { "id": 750933, "nombre": "ECTHOL 5  70/120", "categoria": "veneno", "imagen": "" },
+    { "id": 2543380, "nombre": "FLUIDO ESPACIAL", "categoria": "veneno", "imagen": "" },
+    { "id": 752882, "nombre": "FUMIXAN PASTILLA", "categoria": "veneno", "imagen": "" },
+    { "id": 752909, "nombre": "FUNGOXAN 30", "categoria": "veneno", "imagen": "" },
+    { "id": 750829, "nombre": "FUYI AEROSOL INSECTICIDA COMUN 360", "categoria": "veneno", "imagen": "" },
+    { "id": 750889, "nombre": "GELTEK JERINGA CUCARACHA 6/12", "categoria": "veneno", "imagen": "" },
+    { "id": 750887, "nombre": "GELTEK JERINGA HORMIGA 6/12", "categoria": "veneno", "imagen": "" },
+    { "id": 752908, "nombre": "GLACOXAN CIPER 30", "categoria": "veneno", "imagen": "" },
+    { "id": 752913, "nombre": "GLACOXAN HOJA ANCHA", "categoria": "veneno", "imagen": "" },
+    { "id": 2674888, "nombre": "GLACOXAN TOTAL 100", "categoria": "veneno", "imagen": "" },
+    { "id": 2509439, "nombre": "GORRION ESPIRAL X 4", "categoria": "veneno", "imagen": "" },
+    { "id": 756965, "nombre": "HORMIFLEX", "categoria": "veneno", "imagen": "" },
+    { "id": 756966, "nombre": "HORMITRAMP", "categoria": "veneno", "imagen": "" },
+    { "id": 750921, "nombre": "HORMIX HUAGRO TALCO 250", "categoria": "veneno", "imagen": "" },
+    { "id": 750833, "nombre": "HORTAL CEBO 100/250/500 gr", "categoria": "veneno", "imagen": "" },
+    { "id": 750854, "nombre": "HORTAL LIQUIDO 60/120250/500", "categoria": "veneno", "imagen": "" },
+    { "id": 750856, "nombre": "HORTAL POLVO 250", "categoria": "veneno", "imagen": "" },
+    { "id": 2587602, "nombre": "INSECTICIDA AEROSOL GORRION NEGRO", "categoria": "veneno", "imagen": "" },
+    { "id": 1508318, "nombre": "MYRMEC VENENO HORMIGA 100/200/500 GR", "categoria": "veneno", "imagen": "" },
+    { "id": 2567807, "nombre": "PULVERIZADR GT 2L", "categoria": "veneno", "imagen": "" },
+    { "id": 752963, "nombre": "QUESITOS", "categoria": "veneno", "imagen": "" },
+    { "id": 750826, "nombre": "RAID AEROSOL CASA Y JARDIN", "categoria": "veneno", "imagen": "" },
+    { "id": 750827, "nombre": "RAID AEROSOL CUCARACHAS", "categoria": "veneno", "imagen": "" },
+    { "id": 750825, "nombre": "RAID AEROSOL HORMIGAS", "categoria": "veneno", "imagen": "" },
+    { "id": 750824, "nombre": "RAID AEROSOL MOSCA Y MOSQUITO", "categoria": "veneno", "imagen": "" },
+    { "id": 2529746, "nombre": "RAID ESPIRAL SOBRE X 4", "categoria": "veneno", "imagen": "" },
+    { "id": 754889, "nombre": "RAID ESPIRAL X 12 VERDE", "categoria": "veneno", "imagen": "" },
+    { "id": 1991436, "nombre": "RAID MATA PULGAS", "categoria": "veneno", "imagen": "" },
+    { "id": 2470110, "nombre": "RAID TABLETA X 12/24", "categoria": "veneno", "imagen": "" },
+    { "id": 2209974, "nombre": "RATICIDA RODENT LIQUIDO", "categoria": "veneno", "imagen": "" },
+    { "id": 2509440, "nombre": "TOTAL DERRIBANTE X 100", "categoria": "veneno", "imagen": "" },
+    { "id": 753045, "nombre": "TRAMPERA COYOTE RATA", "categoria": "veneno", "imagen": "" },
+    { "id": 757306, "nombre": "TRAMPERA RATA CHAPA", "categoria": "veneno", "imagen": "" },
+    { "id": 757293, "nombre": "TRAMPERA RATA MADERA", "categoria": "veneno", "imagen": "" },
+    { "id": 752875, "nombre": "TRIUNFO", "categoria": "veneno", "imagen": "" },
+    { "id": 750996, "nombre": "ULTRA PLUS RATAS 50", "categoria": "veneno", "imagen": "" },
+    { "id": 752884, "nombre": "ULTRA PUM", "categoria": "veneno", "imagen": "" },
+    { "id": 752907, "nombre": "VELOXAN DERRIBANTE 250", "categoria": "veneno", "imagen": "" },
+    { "id": 752905, "nombre": "VELOXAN DERRIBANTE 60", "categoria": "veneno", "imagen": "" },
+    { "id": 751006, "nombre": "VENUS LUSTRA METAL", "categoria": "veneno", "imagen": "" },
+
+
+    
+    { "id": 1976488, "nombre": "BOMBITA DEFUMACION X4", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1776966, "nombre": "CASCADA DE HUMO GRANDE", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1446435, "nombre": "CASCADA HUMO", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1446436, "nombre": "CONITOS PARA CASCADA HUMO", "categoria": "sahumerio", "imagen": "" },
+    { "id": 753348, "nombre": "ESENCIA HORNITOS", "categoria": "sahumerio", "imagen": "" },
+    { "id": 2721788, "nombre": "FOQUITO LAMPARA DE SAL", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1511899, "nombre": "HORNITO", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1609632, "nombre": "LAMPARA DE SAL", "categoria": "sahumerio", "imagen": "" },
+    { "id": 753331, "nombre": "LAMPARA LED ECONOMICO", "categoria": "sahumerio", "imagen": "" },
+    { "id": 2499634, "nombre": "MADERITAS SAHUMERIO PALO SANTO", "categoria": "sahumerio", "imagen": "" },
+    { "id": 2777183, "nombre": "PERFUME AUTO", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1511900, "nombre": "PORTA SAHUMERIO CERAMICA", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1378765, "nombre": "PORTA SAHUMERIOS", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1240115, "nombre": "SAGRADA MADDRE VELONCITOS AROMATICOS X3", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1181348, "nombre": "SAGRADA MADRE 5 ELEMENTOS", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1088776, "nombre": "SAGRADA MADRE 7 CHACRAS BOMBITAS", "categoria": "sahumerio", "imagen": "" },
+    { "id": 999474, "nombre": "SAGRADA MADRE 7 DIAS LIMPIEZA BOMBITA", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1446433, "nombre": "SAGRADA MADRE 8 VARILLAS NATURAL", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1345188, "nombre": "SAGRADA MADRE BOMBITA DEFUMACION CAJITA", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1181349, "nombre": "SAGRADA MADRE ENERGIA LIMPIA", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1181350, "nombre": "SAGRADA MADRE KIT HUMITO SAGRADO", "categoria": "sahumerio", "imagen": "" },
+    { "id": 753347, "nombre": "SAGRADA MADRE PALO SANTO CON ...", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1446434, "nombre": "SAGRADA MADRE PALO SANTO REBOZADO", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1345183, "nombre": "SAGRADA MADRE PIRAMIDE ENERGETICA", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1181351, "nombre": "SAGRADA MADRE SAHUMERIO 7 CHACRAS", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1088778, "nombre": "SAGRADA MADRE SAHUMERIO SATYA NAG CHAMPA", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1201082, "nombre": "SAGRADA MADRE SAHUMERIO YAGRA", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1345181, "nombre": "SAGRADA MADRE TIBETANOS", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1398393, "nombre": "SAHUMADORESS CERAMICA", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1527150, "nombre": "SAHUMERIO AGRADA MADRE PATAGONIA", "categoria": "sahumerio", "imagen": "" },
+    { "id": 2225648, "nombre": "SAHUMERIO BANJARA", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1088775, "nombre": "SAHUMERIO BOTANICA SAGRADA MADRE", "categoria": "sahumerio", "imagen": "" },
+    { "id": 2051823, "nombre": "SAHUMERIO BUDA LITTLE", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1088777, "nombre": "SAHUMERIO DUO SAGRADA MADRE", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1976490, "nombre": "SAHUMERIO POLVO", "categoria": "sahumerio", "imagen": "" },
+    { "id": 2424936, "nombre": "SAHUMERIO RITUAL SAGRADA MADRE", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1983761, "nombre": "SAHUMERIO SAGRADA MADRE CANABIS", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1398425, "nombre": "SAHUMERIO SAGRADA MADRE TRIPLE COMBINADO", "categoria": "sahumerio", "imagen": "" },
+    { "id": 999473, "nombre": "SAHUMERIO SAI BABA", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1743272, "nombre": "SAHUMERIO SUELTO", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1398427, "nombre": "SAHUMERIOS  HIERBAS 9 VARILLAS", "categoria": "sahumerio", "imagen": "" },
+    { "id": 2321518, "nombre": "SAHUMERIOS 20 VARILLASS SAGRADA MADRE", "categoria": "sahumerio", "imagen": "" },
+    { "id": 2075459, "nombre": "SAHUMERIOS ARTESANOS", "categoria": "sahumerio", "imagen": "" },
+    { "id": 753346, "nombre": "SAHUMERIOS HEXAGONAL EN CAJA", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1398426, "nombre": "SAHUMERIOS SAGRADA MADRE MAGICOS", "categoria": "sahumerio", "imagen": "" },
+    { "id": 2160716, "nombre": "SAHUMERIOS ULLAS", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1398429, "nombre": "TABLITAS PORTA SAHUMERIO", "categoria": "sahumerio", "imagen": "" },
+    { "id": 753326, "nombre": "VELAS DE NOCHE HORNO", "categoria": "sahumerio", "imagen": "" },
+
+
+    { "id": 1965768, "nombre": "BALDE 12 L", "categoria": "jardineria", "imagen": "" },
+    { "id": 754793, "nombre": "BARRE HOJAS 60 CM NARANJA", "categoria": "jardineria", "imagen": "" },
+    { "id": 754794, "nombre": "BARRE HOJAS COMUN", "categoria": "jardineria", "imagen": "" },
+    { "id": 761623, "nombre": "BEBEDERO PICAFLOR SIN SOPORTE", "categoria": "jardineria", "imagen": "" },
+    { "id": 752957, "nombre": "CESPED GOLD PACK MEDIA SOMBRA", "categoria": "jardineria", "imagen": "" },
+    { "id": 1177715, "nombre": "CESPED GOLD-PACK PIOTEO 400GRSS", "categoria": "jardineria", "imagen": "" },
+    { "id": 750924, "nombre": "FERTIFOX ACTIVADOR FLORACION", "categoria": "jardineria", "imagen": "" },
+    { "id": 750925, "nombre": "FERTIFOX ACTIVADOR FOLLAJE", "categoria": "jardineria", "imagen": "" },
+    { "id": 750923, "nombre": "FERTIFOX POTENCIADO", "categoria": "jardineria", "imagen": "" },
+    { "id": 1177714, "nombre": "FERTIFOZ ENRAIZADOR 75CC", "categoria": "jardineria", "imagen": "" },
+    { "id": 752932, "nombre": "FERTILIZANTE 15-15-15 500", "categoria": "jardineria", "imagen": "" },
+    { "id": 2210089, "nombre": "FERTILIZANTE SULFATO DE HIERRO GRHESA", "categoria": "jardineria", "imagen": "" },
+    { "id": 1126839, "nombre": "GREEN LAND CESPED 9 VARIEDADES 500 GRS", "categoria": "jardineria", "imagen": "" },
+    { "id": 1600898, "nombre": "GREEN LAND CESPED MEDIA SOMBRA 500", "categoria": "jardineria", "imagen": "" },
+    { "id": 753266, "nombre": "GUANTES MOTEADOS GRIS", "categoria": "jardineria", "imagen": "" },
+    { "id": 752933, "nombre": "HARINA DE HUESO 500", "categoria": "jardineria", "imagen": "" },
+    { "id": 753180, "nombre": "MACETA APILABLE TREBOL", "categoria": "jardineria", "imagen": "" },
+    { "id": 753131, "nombre": "MACETA AUTORRIEGO 3", "categoria": "jardineria", "imagen": "" },
+    { "id": 1066955, "nombre": "MACETA AUTORRIEGO JARDINERA 20", "categoria": "jardineria", "imagen": "" },
+    { "id": 753185, "nombre": "MACETA BOLS 15", "categoria": "jardineria", "imagen": "" },
+    { "id": 943743, "nombre": "MACETA CLASICA  32", "categoria": "jardineria", "imagen": "" },
+    { "id": 753150, "nombre": "MACETA CUADRADA 10", "categoria": "jardineria", "imagen": "" },
+    { "id": 753172, "nombre": "MACETA DECO 12", "categoria": "jardineria", "imagen": "" },
+    { "id": 753133, "nombre": "MACETA FASETADA 15", "categoria": "jardineria", "imagen": "" },
+    { "id": 1177686, "nombre": "MACETA JARDINERA  50CM", "categoria": "jardineria", "imagen": "" },
+    { "id": 753128, "nombre": "MACETA JARDINERA 35", "categoria": "jardineria", "imagen": "" },
+    { "id": 753129, "nombre": "MACETA JARDINERA MINI 20", "categoria": "jardineria", "imagen": "" },
+    { "id": 2543376, "nombre": "MACETA JARDINERA ROCIO N 35", "categoria": "jardineria", "imagen": "" },
+    { "id": 2543389, "nombre": "MACETA PAILA N 35", "categoria": "jardineria", "imagen": "" },
+    { "id": 753135, "nombre": "MACETA SIMIL 12", "categoria": "jardineria", "imagen": "" },
+    { "id": 752935, "nombre": "NITROFOSKA 500", "categoria": "jardineria", "imagen": "" },
+    { "id": 753142, "nombre": "PLATO MACETA 18", "categoria": "jardineria", "imagen": "" },
+    { "id": 830775, "nombre": "REGADERA 2 L. NEW", "categoria": "jardineria", "imagen": "" },
+    { "id": 2543282, "nombre": "REGADOR FLOR", "categoria": "jardineria", "imagen": "" },
+    { "id": 754792, "nombre": "SACA HOJAS PILETA", "categoria": "jardineria", "imagen": "" },
+    { "id": 855832, "nombre": "SAPITO DE RIEGO", "categoria": "jardineria", "imagen": "" },
+    { "id": 752937, "nombre": "SULFATO DE HIERRO 500", "categoria": "jardineria", "imagen": "" },
+    { "id": 753103, "nombre": "TIERRA CAPTUS", "categoria": "jardineria", "imagen": "" },
+    { "id": 753104, "nombre": "TIERRA CHICA 5 DM3", "categoria": "jardineria", "imagen": "" },
+    { "id": 753106, "nombre": "TIERRA GRANDE 25 DM3", "categoria": "jardineria", "imagen": "" },
+    { "id": 753105, "nombre": "TIERRA MEDIANA 10 DM3", "categoria": "jardineria", "imagen": "" },
+    { "id": 752934, "nombre": "UREA ACTIVADOR DE FOLLAJE 500", "categoria": "jardineria", "imagen": "" },
+
+    
+    { "id": 756323, "nombre": "BOMBILLA 1 RESORTE", "categoria": "varios", "imagen": "" },
+    { "id": 756324, "nombre": "BOMBILLA 2 CON ESTRIBO AUTOLIMPIATE", "categoria": "varios", "imagen": "" },
+    { "id": 756325, "nombre": "BOMBILLA 3 COLOR", "categoria": "varios", "imagen": "" },
+    { "id": 756326, "nombre": "BOMBILLA 4 CHATA NIQUEL", "categoria": "varios", "imagen": "" },
+    { "id": 753299, "nombre": "BROCHES LAPACHO MADERA", "categoria": "varios", "imagen": "" },
+    { "id": 753298, "nombre": "BROCHES PLASTICOS", "categoria": "varios", "imagen": "" },
+    { "id": 2310544, "nombre": "BURLETE ARENA", "categoria": "varios", "imagen": "" },
+    { "id": 1323115, "nombre": "CARBON BOLSA PAPEL AZUL", "categoria": "varios", "imagen": "" },
+    { "id": 757073, "nombre": "CARBON CHICO", "categoria": "varios", "imagen": "" },
+    { "id": 757074, "nombre": "CARBON GRANDE", "categoria": "varios", "imagen": "" },
+    { "id": 2318177, "nombre": "CASITA HAMSTER P/JAULA NEW PET", "categoria": "varios", "imagen": "" },
+    { "id": 2587603, "nombre": "CEPILLO A VAPOR", "categoria": "varios", "imagen": "" },
+    { "id": 2662007, "nombre": "CEPILLO A VAPOR REBATIBLE", "categoria": "varios", "imagen": "" },
+    { "id": 2822916, "nombre": "CEPILLO CON VAPOR BALLENA ROSA BEEPAW", "categoria": "varios", "imagen": "" },
+    { "id": 2822909, "nombre": "CEPILLO CON VAPOR PATO BLANCO BEEPAW", "categoria": "varios", "imagen": "" },
+    { "id": 753310, "nombre": "CEPILLO DE ROPA MAPU JEANS", "categoria": "varios", "imagen": "" },
+    { "id": 1067250, "nombre": "CEPILLO DE ROPA PLANCHITA C/ MANGO", "categoria": "varios", "imagen": "" },
+    { "id": 761603, "nombre": "CEPILLO DENTAL DEDO", "categoria": "varios", "imagen": "" },
+    { "id": 819663, "nombre": "CEPILLO DOBLE MANGO MADERA GRANDE", "categoria": "varios", "imagen": "" },
+    { "id": 2662006, "nombre": "CEPILLO GRAVITY", "categoria": "varios", "imagen": "" },
+    { "id": 756305, "nombre": "COLADOR CHICO 8", "categoria": "varios", "imagen": "" },
+    { "id": 756306, "nombre": "COLADOR GRANDE 10", "categoria": "varios", "imagen": "" },
+    { "id": 751041, "nombre": "ECOLE", "categoria": "varios", "imagen": "" },
+    { "id": 753303, "nombre": "EMBUDO 10", "categoria": "varios", "imagen": "" },
+    { "id": 1118405, "nombre": "ENCENDEDOR CANDELA", "categoria": "varios", "imagen": "" },
+    { "id": 751022, "nombre": "ENERGIZER AA UNIDAD", "categoria": "varios", "imagen": "" },
+    { "id": 751021, "nombre": "ENERGIZER AAA UNIDAD", "categoria": "varios", "imagen": "" },
+    { "id": 751024, "nombre": "ENERGIZER GRANDE E 95 UNIDAD", "categoria": "varios", "imagen": "" },
+    { "id": 751023, "nombre": "ENERGIZER MEDIANA E93 UNIDAD", "categoria": "varios", "imagen": "" },
+    { "id": 1396420, "nombre": "ESFERA HAMSTER C/ PIE", "categoria": "varios", "imagen": "" },
+    { "id": 756327, "nombre": "FILTRO BOMBILLA", "categoria": "varios", "imagen": "" },
+    { "id": 753329, "nombre": "FOSFOROS", "categoria": "varios", "imagen": "" },
+    { "id": 794592, "nombre": "GIRASOL X 20", "categoria": "varios", "imagen": "" },
+    { "id": 751040, "nombre": "LA GOTITA", "categoria": "varios", "imagen": "" },
+    { "id": 751045, "nombre": "LA GOTITA GEL", "categoria": "varios", "imagen": "" },
+    { "id": 2123285, "nombre": "LEÑA ACACIO BLANCO", "categoria": "varios", "imagen": "" },
+    { "id": 757119, "nombre": "MANTAS", "categoria": "varios", "imagen": "" },
+    { "id": 753322, "nombre": "NAFTALINA", "categoria": "varios", "imagen": "" },
+    { "id": 2230657, "nombre": "OFF CREMA 196 GR", "categoria": "varios", "imagen": "" },
+    { "id": 2230660, "nombre": "OFF CREMA 60GRS", "categoria": "varios", "imagen": "" },
+    { "id": 752959, "nombre": "OFF REPELENTE AEROOL 170 NARANJA", "categoria": "varios", "imagen": "" },
+    { "id": 753352, "nombre": "PALA MANGO ALTO A ROSCA", "categoria": "varios", "imagen": "" },
+    { "id": 753287, "nombre": "PALMETA ANTIMOSCAS", "categoria": "varios", "imagen": "" },
+    { "id": 1460450, "nombre": "PASTA COLGATE", "categoria": "varios", "imagen": "" },
+    { "id": 751039, "nombre": "POXILINA", "categoria": "varios", "imagen": "" },
+    { "id": 751047, "nombre": "POXIPOL", "categoria": "varios", "imagen": "" },
+    { "id": 751046, "nombre": "POXIRRAN", "categoria": "varios", "imagen": "" },
+    { "id": 753356, "nombre": "PRESTOBARBA 2", "categoria": "varios", "imagen": "" },
+    { "id": 753357, "nombre": "PRESTOBARBA 3", "categoria": "varios", "imagen": "" },
+    { "id": 751043, "nombre": "PULPITO", "categoria": "varios", "imagen": "" },
+    { "id": 2134192, "nombre": "PULVERIZADOR GATILLO COMPLETO 500ML", "categoria": "varios", "imagen": "" },
+    { "id": 754791, "nombre": "ROLLO PAPEL ALUMINIO", "categoria": "varios", "imagen": "" },
+    { "id": 2452081, "nombre": "ROLLO PAPEL FILM", "categoria": "varios", "imagen": "" },
+    { "id": 756363, "nombre": "SAL  DE AMONIO", "categoria": "varios", "imagen": "" },
+    { "id": 752301, "nombre": "SHULET CARASSIUS 10", "categoria": "varios", "imagen": "" },
+    { "id": 752302, "nombre": "SHULET CARASSIUS 20", "categoria": "varios", "imagen": "" },
+    { "id": 752303, "nombre": "SHULET TROPICAL 10", "categoria": "varios", "imagen": "" },
+    { "id": 752304, "nombre": "SHULET TROPICAL 20", "categoria": "varios", "imagen": "" },
+    { "id": 1282449, "nombre": "SOPAPA DE GOMA SUPY", "categoria": "varios", "imagen": "" },
+    { "id": 1067181, "nombre": "SOPAPA FUELLE PILETERO", "categoria": "varios", "imagen": "" },
+    { "id": 857702, "nombre": "SOPAPON", "categoria": "varios", "imagen": "" },
+    { "id": 776231, "nombre": "TERMOMETRO", "categoria": "varios", "imagen": "" },
+    { "id": 751042, "nombre": "UNIPOX", "categoria": "varios", "imagen": "" },
+    { "id": 753325, "nombre": "VELAS X 4", "categoria": "varios", "imagen": "" },
+    { "id": 1448723, "nombre": "WD-40", "categoria": "varios", "imagen": "" }
+
+
+
+
 ]

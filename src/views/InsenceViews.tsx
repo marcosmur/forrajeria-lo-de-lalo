@@ -1,4 +1,4 @@
-"use client";
+ "use client";
 
 import { useEffect, useState } from "react";
 import Card from "@/components/Card";
@@ -12,7 +12,7 @@ type Product = {
   precio: number;  // Cambiado de 'price' a 'precio'
 };
 
-const PetBirdsViews = () => {
+const InsenceViews  = () => {
   const [productos, setProductos] = useState<Product[]>([]);
 
   useEffect(() => {
@@ -21,7 +21,7 @@ const PetBirdsViews = () => {
       .then((data) => {
         // Normaliza las categorías a minúsculas para comparar
         const filtrados = data.filter((p: Product) => 
-          p.categoria.toLowerCase() === "perro y gato"
+          p.categoria.toLowerCase() === "sahumerio"
         );
         console.log("Productos filtrados:", filtrados); // Verifica en consola
         setProductos(filtrados);
@@ -46,4 +46,4 @@ const PetBirdsViews = () => {
   );
 };
 
-export default PetBirdsViews;
+export default InsenceViews ;

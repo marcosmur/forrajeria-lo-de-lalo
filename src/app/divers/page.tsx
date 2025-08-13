@@ -1,9 +1,9 @@
 import React from "react"
-import PetBirdsViews from "@/views/PetBirdsViews"
+import DiversViews from "@/views/DiversViews"
 
 const Page = () => {
 return (
-    <PetBirdsViews />
+    <DiversViews />
 )
 }
 
