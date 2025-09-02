@@ -67,6 +67,12 @@ const Navbar = () => {
                         Sahumerio
                       </a>
                     </li>
+                    
+                    <li>
+                      <a href="/cleaning" className="block px-4 py-2 hover:bg-red-600">
+                        limpieza
+                      </a>
+                    </li>
                   </ul>
                 </div>
               )}
@@ -88,7 +94,9 @@ const Navbar = () => {
                   <ul className="text-white text-sm">
                     <li><a href="/pets-dogs" className="block px-4 py-2 hover:bg-red-600">Perros</a></li>
                     <li><a href="/pets-cats" className="block px-4 py-2 hover:bg-red-600">Gatos</a></li>
-                    <li><a href="/pets-cats" className="block px-4 py-2 hover:bg-red-600">Perros y gatos</a></li>
+                    <li><a href="/dogs-and-cats" className="block px-4 py-2 hover:bg-red-600">Perros y gatos</a></li>
+                    <li><a href="/toys" className="block px-4 py-2 hover:bg-red-600">juguetes</a></li>
+
                   </ul>
                 </div>
               )}

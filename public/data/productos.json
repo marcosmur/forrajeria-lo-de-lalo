@@ -367,74 +367,19 @@
     "categoria": "perro",
     "imagen": "/imagenes-perros/zimpi.jpg"
   },
-    {
-        "id": 761597,
-        "nombre": "ALICATE CHICO",
-        "categoria": "perro",
-        "imagen": ""
-    },
+    
     {
         "id": 798207,
         "nombre": "ALICATE TIJERA",
         "categoria": "perro",
         "imagen": ""
     },
-    {
-        "id": 924822,
-        "nombre": "ALMOHADON OVALADO N4 55X75CM",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
-    {
-        "id": 878944,
-        "nombre": "ALMOHADON OVALADO N5 65X85CM",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
-    {
-        "id": 878933,
-        "nombre": "ALMOHADON RECTANGULAR  N3 75X55CM",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
-    {
-        "id": 2318178,
-        "nombre": "ALMOHADON RECTANGULAR N5 95X75 FRISELINA",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
-    {
-        "id": 843295,
-        "nombre": "ALMOHADON RECTANGULAR NRO 4 95X65",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
-    {
-        "id": 843296,
-        "nombre": "ALMOHADÓN RECTANGULAR NRO 5 95X 75",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
     
-    {
-        "id": 2452093,
-        "nombre": "BALDE 12 L COMUN",
-        "categoria": "limpieza",
-        "imagen": ""
-    },
     
-    {
-        "id": 1401130,
-        "nombre": "CADENA DE ATAR N15 FINA",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 761772,
-        "nombre": "CADENA PASEO CHICA",
-        "categoria": "perro",
-        "imagen": ""
-    },
+   
+    
+    
+    
     {
         "id": 1609222,
         "nombre": "CARDINA DOBLE CON CEPILLO 9X5CM",
@@ -532,30 +477,7 @@
         "categoria": "gato",
         "imagen": "/imagenes_producto_gatos/28.jpg"
     },
-    {
-        "id": 1416866,
-        "nombre": "HUESO DE GOMA MACIZO GRANDE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1416865,
-        "nombre": "HUESO DE GOMA MACIZO MEDIANO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1370150,
-        "nombre": "HUESO SOGA CON 2 PELOTAS",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1155871,
-        "nombre": "HUESO Z PASTEL MORDILLO CHICO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
+    
     {
         "id": 818938,
         "nombre": "IDENTIFICADOR HUESO CHICO METAL",
@@ -568,348 +490,7 @@
         "categoria": "perro",
         "imagen": ""
     },
-    {
-        "id": 1466313,
-        "nombre": "JUGUETE ANTI ESTRES GRANDE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2473378,
-        "nombre": "JUGUETE BATIBOOMERANG",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2473375,
-        "nombre": "JUGUETE BIFE MEDIANO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2473374,
-        "nombre": "JUGUETE BOOMERANG",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818907,
-        "nombre": "JUGUETE CAÑITA (20)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818906,
-        "nombre": "JUGUETE CAÑITA CORAZON (19)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2318168,
-        "nombre": "JUGUETE CHANCHO A CUERDA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818888,
-        "nombre": "JUGUETE CON CHIFLE (9)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818881,
-        "nombre": "JUGUETE DIARIO VINILO (2)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1757599,
-        "nombre": "JUGUETE FRISBEE PLASTICO ECONOMICO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818905,
-        "nombre": "JUGUETE FRISBEE PLASTICO GRANDE (18)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818904,
-        "nombre": "JUGUETE FRISBEE PLASTICOBRILLO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1646814,
-        "nombre": "JUGUETE GALLINA CHICA 16CM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2130938,
-        "nombre": "JUGUETE GALLINA CHIFLE GRANDE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2450119,
-        "nombre": "JUGUETE HUESITO PORTA SNACK",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2136526,
-        "nombre": "JUGUETE HUESO ANTISARRO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1748860,
-        "nombre": "JUGUETE HUESO SOGA C/2 PELTAS40MM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1748859,
-        "nombre": "JUGUETE HUESO SOGA C/PELOTA 40MM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2154100,
-        "nombre": "JUGUETE JUMPER CHICO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818897,
-        "nombre": "JUGUETE LANZA DISCOS (15)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 761823,
-        "nombre": "JUGUETE LANZA PELOTA (16)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818889,
-        "nombre": "JUGUETE MORDILLO (10)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1348068,
-        "nombre": "JUGUETE MORDILLO CHUPETTE CHICO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2318170,
-        "nombre": "JUGUETE MORDILLO CON PELOTA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2318169,
-        "nombre": "JUGUETE MORDILLO DOUBLE BITE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2154098,
-        "nombre": "JUGUETE MORDILLO PORTA SNACK",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2473376,
-        "nombre": "JUGUETE MORDILLO SPINER",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2822905,
-        "nombre": "JUGUETE PALITO C/RATA CASABEL CHICO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2822902,
-        "nombre": "JUGUETE PALITO DE METAL CON GUSANO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2248360,
-        "nombre": "JUGUETE PALITO DE METAL CON RATA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2136527,
-        "nombre": "JUGUETE PATA POLLO C/CHIFLE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 844209,
-        "nombre": "JUGUETE PELOTA ACRILICA X 4 (28)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2822898,
-        "nombre": "JUGUETE PELOTA BASQUET GRANDE CON CHIFLE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 844193,
-        "nombre": "JUGUETE PELOTA CHICA SONAJERO X 4 (27)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2567085,
-        "nombre": "JUGUETE PELOTA CON BOLITAS",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2248335,
-        "nombre": "JUGUETE PELOTA DE GOMA 6.5CM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818908,
-        "nombre": "JUGUETE PELOTA FUTBOL X 6 (21)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2634968,
-        "nombre": "JUGUETE PELOTA GOMA BASQUET 90MM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1141183,
-        "nombre": "JUGUETE PELOTA HILO X 4",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818895,
-        "nombre": "JUGUETE PELOTA MACIZA GRANDE(13)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818894,
-        "nombre": "JUGUETE PELOTA MACIZA MEDIANA (12) 57 MM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1537607,
-        "nombre": "JUGUETE PELOTA TENIS",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2473377,
-        "nombre": "JUGUETE PESCADITO GOMA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1646820,
-        "nombre": "JUGUETE RATA BRILLO CASCABEL C/PELOTA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1373403,
-        "nombre": "JUGUETE RATITA BASE C/ RESORTE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818910,
-        "nombre": "JUGUETE RATITA MINI X 3 (23)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818913,
-        "nombre": "JUGUETE RATITA NACIONAL (26)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2567067,
-        "nombre": "JUGUETE SOGA / NUDDO CHICO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1155870,
-        "nombre": "JUGUETE SOGA 7 TRENZA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1239955,
-        "nombre": "JUGUETE SOGA NUDO TRENZA + ARO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2318175,
-        "nombre": "JUGUETE SOGA SURTIDO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1755445,
-        "nombre": "JUGUETE SOGA TIRADOR + PELOTA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1332659,
-        "nombre": "JUGUETE SOPORTE+TAMBOR+PELOTA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2248338,
-        "nombre": "JUGUETE TORTUGA A CUERDA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2543385,
-        "nombre": "JUGUETE VAIVEN CON PLUMAS",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1405332,
-        "nombre": "JUGUETE VARITA GATO C / POMPON",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1154584,
-        "nombre": "JUGUETE VINILO RUEDA C/CHIFLE 10X10X4",
-        "categoria": "juguete",
-        "imagen": ""
-    },
+
     {
         "id": 818859,
         "nombre": "GUANTE PELOS",
@@ -988,66 +569,7 @@
         "categoria": "perro",
         "imagen": ""
     },
-    {
-        "id": 2302070,
-        "nombre": "RASCADOR CILINDRO MEDIANO AGATAR 20X8CM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2318174,
-        "nombre": "RASCADOR MINI SIMON AGATAR 29X21X49",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2590337,
-        "nombre": "RASCADOR PIRAMIDE GUIZA AGATAR 12CM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2738691,
-        "nombre": "RASCADOR RECTO CHICO AGATAR 20 X11.5X4CM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2662009,
-        "nombre": "RASCADOR RECTO GRANDE 50X12X2",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2694462,
-        "nombre": "RASCADOR ZOO RATON AGATAR 15X14X12CM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2318171,
-        "nombre": "RATA ACRILICA C/SONAJERO Y PELOTA SISAL",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1359449,
-        "nombre": "RATITA C/CHIFLE X 4",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1141182,
-        "nombre": "RATITA COLOR MEDIANA SOGA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2797631,
-        "nombre": "RATITA X9 C/U",
-        "categoria": "juguete",
-        "imagen": ""
-    },
+
     {
         "id": 1373401,
         "nombre": "PEINE METAL DIENTES DISCONTINUOS",
@@ -1060,78 +582,8 @@
         "categoria": "perro",
         "imagen": ""
     },
-    {
-        "id": 2797658,
-        "nombre": "PELOTA ANTI ESTRES CHICA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2797729,
-        "nombre": "PELOTA ANTI ESTRES GRANDE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2587605,
-        "nombre": "PELOTA CON MOVIMIENTO USB GATO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2375011,
-        "nombre": "PELOTA DOSIFICADORA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1320624,
-        "nombre": "PELOTA FUTBOL CHICA C/CHIFLE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2567045,
-        "nombre": "PELOTA GOMA BASQUET",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2543383,
-        "nombre": "PELOTA LENGUA CON LUZ",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2519290,
-        "nombre": "PELOTA RUGBY CON PICHES",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1928065,
-        "nombre": "PELOTA RUGBY RASCAL",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1416867,
-        "nombre": "PELOTA SELFIE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2587597,
-        "nombre": "PELOTA VOLADORA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 752198,
-        "nombre": "TOTAL FULL CHICOS HASTA 10",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
+
+    
     {
         "id": 752864,
         "nombre": "TOTAL FULL GATO",
@@ -1156,12 +608,7 @@
         "categoria": "perro y gato",
         "imagen": ""
     },
-    {
-        "id": 752129,
-        "nombre": "PASTILLAS POWER 2 - 5",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
+    
     {
         "id": 752132,
         "nombre": "PASTILLAS POWER 20 - 30",
@@ -1210,30 +657,9 @@
         "categoria": "perro",
         "imagen": ""
     },
-    {
-        "id": 753010,
-        "nombre": "SHAMPOO  ELMER PULGA Y GARRAPATA",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
-    {
-        "id": 752232,
-        "nombre": "SHAMPOO OSSPRET  2 EN 1",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
-    {
-        "id": 2122068,
-        "nombre": "SHAMPOO OSSPRET ALOE Y AVENA 250CC",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
-    {
-        "id": 2098605,
-        "nombre": "SHAMPOO OSSPRET AQUA ECTHO",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
+    
+    
+    
     {
         "id": 752229,
         "nombre": "SHAMPOO OSSPRET CACHORRO",
@@ -1245,30 +671,6 @@
         "nombre": "SHAMPOO OSSPRET GATO",
         "categoria": "gato",
         "imagen": "/imagenes_producto_gatos/37.webp"
-    },
-    {
-        "id": 752228,
-        "nombre": "SHAMPOO OSSPRET HIPOALARGENICO",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 752230,
-        "nombre": "SHAMPOO OSSPRET PERFUMADO",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 752231,
-        "nombre": "SHAMPOO OSSPRET TRADICIONAL",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 773848,
-        "nombre": "TALCO ELMER",
-        "categoria": "perro y gato",
-        "imagen": ""
     },
     {
         "id": 761599,
@@ -1294,18 +696,8 @@
         "categoria": "perro y gato",
         "imagen": ""
     },
-    {
-        "id": 2534096,
-        "nombre": "MEDDALLA O HUELLA PREMIUM",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
-    {
-        "id": 2652616,
-        "nombre": "VARITA CON PLUMAS Y CASCABEL",
-        "categoria": "juguete",
-        "imagen": ""
-    },
+    
+    
     {
         "id": 2375005,
         "nombre": "VASO CLEAN CHICO",
@@ -1318,12 +710,7 @@
         "categoria": "perro",
         "imagen": ""
     },
-    {
-        "id": 2529834,
-        "nombre": "POLLO CHIFLE DE COLORES",
-        "categoria": "juguete",
-        "imagen": ""
-    },
+    
 
     {
         "id": 761597,
@@ -1368,13 +755,7 @@
         "imagen": ""
     },
     
-    {
-        "id": 2452093,
-        "nombre": "BALDE 12 L COMUN",
-        "categoria": "limpieza",
-        "imagen": ""
-    },
-   
+
     {
         "id": 1401130,
         "nombre": "CADENA DE ATAR N15 FINA",
@@ -1387,704 +768,27 @@
         "categoria": "perro",
         "imagen": ""
     },
-    {
-        "id": 1609222,
-        "nombre": "CARDINA DOBLE CON CEPILLO 9X5CM",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 2191469,
-        "nombre": "CARDINA MADERA CABO ROJO N1",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 761601,
-        "nombre": "CARDINA MADERA CHICA",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 774028,
-        "nombre": "CARDINA MADERA GRANDE",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 761818,
-        "nombre": "CARDINA MADERA MEDIANA",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 992344,
-        "nombre": "CARDINA PLASTICA CHICA",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 761602,
-        "nombre": "CARDINA PLASTICA GRANDE",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 879076,
-        "nombre": "CARDINA PLASTICA MEDIANA",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 761814,
-        "nombre": "CARTEL CUIDADO CON EL PERRO",
-        "categoria": "perro",
-        "imagen": ""
-    },
     
-    {
-        "id": 2642225,
-        "nombre": "ESPONJA SILICONA PERRO",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 753297,
-        "nombre": "GUANTES AFELPADOS MAKE PEQUEÑOS",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 1416866,
-        "nombre": "HUESO DE GOMA MACIZO GRANDE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1416865,
-        "nombre": "HUESO DE GOMA MACIZO MEDIANO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1370150,
-        "nombre": "HUESO SOGA CON 2 PELOTAS",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1155871,
-        "nombre": "HUESO Z PASTEL MORDILLO CHICO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818938,
-        "nombre": "IDENTIFICADOR HUESO CHICO METAL",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 2136380,
-        "nombre": "IDENTIFICADOR HUESO PLASTICO GRANDE",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 1466313,
-        "nombre": "JUGUETE ANTI ESTRES GRANDE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2473378,
-        "nombre": "JUGUETE BATIBOOMERANG",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2473375,
-        "nombre": "JUGUETE BIFE MEDIANO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2473374,
-        "nombre": "JUGUETE BOOMERANG",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818907,
-        "nombre": "JUGUETE CAÑITA (20)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818906,
-        "nombre": "JUGUETE CAÑITA CORAZON (19)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2318168,
-        "nombre": "JUGUETE CHANCHO A CUERDA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818888,
-        "nombre": "JUGUETE CON CHIFLE (9)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818881,
-        "nombre": "JUGUETE DIARIO VINILO (2)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1757599,
-        "nombre": "JUGUETE FRISBEE PLASTICO ECONOMICO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818905,
-        "nombre": "JUGUETE FRISBEE PLASTICO GRANDE (18)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818904,
-        "nombre": "JUGUETE FRISBEE PLASTICOBRILLO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1646814,
-        "nombre": "JUGUETE GALLINA CHICA 16CM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2130938,
-        "nombre": "JUGUETE GALLINA CHIFLE GRANDE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2450119,
-        "nombre": "JUGUETE HUESITO PORTA SNACK",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2136526,
-        "nombre": "JUGUETE HUESO ANTISARRO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1748860,
-        "nombre": "JUGUETE HUESO SOGA C/2 PELTAS40MM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1748859,
-        "nombre": "JUGUETE HUESO SOGA C/PELOTA 40MM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2154100,
-        "nombre": "JUGUETE JUMPER CHICO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818897,
-        "nombre": "JUGUETE LANZA DISCOS (15)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 761823,
-        "nombre": "JUGUETE LANZA PELOTA (16)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818889,
-        "nombre": "JUGUETE MORDILLO (10)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1348068,
-        "nombre": "JUGUETE MORDILLO CHUPETTE CHICO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2318170,
-        "nombre": "JUGUETE MORDILLO CON PELOTA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2318169,
-        "nombre": "JUGUETE MORDILLO DOUBLE BITE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2154098,
-        "nombre": "JUGUETE MORDILLO PORTA SNACK",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2473376,
-        "nombre": "JUGUETE MORDILLO SPINER",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2822905,
-        "nombre": "JUGUETE PALITO C/RATA CASABEL CHICO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2822902,
-        "nombre": "JUGUETE PALITO DE METAL CON GUSANO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2248360,
-        "nombre": "JUGUETE PALITO DE METAL CON RATA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2136527,
-        "nombre": "JUGUETE PATA POLLO C/CHIFLE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 844209,
-        "nombre": "JUGUETE PELOTA ACRILICA X 4 (28)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2822898,
-        "nombre": "JUGUETE PELOTA BASQUET GRANDE CON CHIFLE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 844193,
-        "nombre": "JUGUETE PELOTA CHICA SONAJERO X 4 (27)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2567085,
-        "nombre": "JUGUETE PELOTA CON BOLITAS",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2248335,
-        "nombre": "JUGUETE PELOTA DE GOMA 6.5CM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818908,
-        "nombre": "JUGUETE PELOTA FUTBOL X 6 (21)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2634968,
-        "nombre": "JUGUETE PELOTA GOMA BASQUET 90MM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1141183,
-        "nombre": "JUGUETE PELOTA HILO X 4",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818895,
-        "nombre": "JUGUETE PELOTA MACIZA GRANDE(13)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818894,
-        "nombre": "JUGUETE PELOTA MACIZA MEDIANA (12) 57 MM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1537607,
-        "nombre": "JUGUETE PELOTA TENIS",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2473377,
-        "nombre": "JUGUETE PESCADITO GOMA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1646820,
-        "nombre": "JUGUETE RATA BRILLO CASCABEL C/PELOTA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1373403,
-        "nombre": "JUGUETE RATITA BASE C/ RESORTE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818910,
-        "nombre": "JUGUETE RATITA MINI X 3 (23)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818913,
-        "nombre": "JUGUETE RATITA NACIONAL (26)",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2567067,
-        "nombre": "JUGUETE SOGA / NUDDO CHICO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1155870,
-        "nombre": "JUGUETE SOGA 7 TRENZA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1239955,
-        "nombre": "JUGUETE SOGA NUDO TRENZA + ARO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2318175,
-        "nombre": "JUGUETE SOGA SURTIDO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1755445,
-        "nombre": "JUGUETE SOGA TIRADOR + PELOTA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1332659,
-        "nombre": "JUGUETE SOPORTE+TAMBOR+PELOTA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2248338,
-        "nombre": "JUGUETE TORTUGA A CUERDA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2543385,
-        "nombre": "JUGUETE VAIVEN CON PLUMAS",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1405332,
-        "nombre": "JUGUETE VARITA GATO C / POMPON",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1154584,
-        "nombre": "JUGUETE VINILO RUEDA C/CHIFLE 10X10X4",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 818859,
-        "nombre": "GUANTE PELOS",
-        "categoria": "perro",
-        "imagen": ""
-    },
     
-    {
-        "id": 752104,
-        "nombre": "PIPETA ELMER PERRO 10 - 25",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 752105,
-        "nombre": "PIPETA ELMER PERRO 25 - 40",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 752103,
-        "nombre": "PIPETA ELMER PERRO 4 - 10",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 752106,
-        "nombre": "PIPETA ELMER PERRO 40 - 60",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 752102,
-        "nombre": "PIPETA ELMER PERRO HASTA 4",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 2302070,
-        "nombre": "RASCADOR CILINDRO MEDIANO AGATAR 20X8CM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2318174,
-        "nombre": "RASCADOR MINI SIMON AGATAR 29X21X49",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2590337,
-        "nombre": "RASCADOR PIRAMIDE GUIZA AGATAR 12CM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2738691,
-        "nombre": "RASCADOR RECTO CHICO AGATAR 20 X11.5X4CM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2662009,
-        "nombre": "RASCADOR RECTO GRANDE 50X12X2",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2694462,
-        "nombre": "RASCADOR ZOO RATON AGATAR 15X14X12CM",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2318171,
-        "nombre": "RATA ACRILICA C/SONAJERO Y PELOTA SISAL",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1359449,
-        "nombre": "RATITA C/CHIFLE X 4",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1141182,
-        "nombre": "RATITA COLOR MEDIANA SOGA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2797631,
-        "nombre": "RATITA X9 C/U",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1373401,
-        "nombre": "PEINE METAL DIENTES DISCONTINUOS",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 761820,
-        "nombre": "PEINE METALICO",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 2797658,
-        "nombre": "PELOTA ANTI ESTRES CHICA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2797729,
-        "nombre": "PELOTA ANTI ESTRES GRANDE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2587605,
-        "nombre": "PELOTA CON MOVIMIENTO USB GATO",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2375011,
-        "nombre": "PELOTA DOSIFICADORA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1320624,
-        "nombre": "PELOTA FUTBOL CHICA C/CHIFLE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2567045,
-        "nombre": "PELOTA GOMA BASQUET",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2543383,
-        "nombre": "PELOTA LENGUA CON LUZ",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2519290,
-        "nombre": "PELOTA RUGBY CON PICHES",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1928065,
-        "nombre": "PELOTA RUGBY RASCAL",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 1416867,
-        "nombre": "PELOTA SELFIE",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2587597,
-        "nombre": "PELOTA VOLADORA",
-        "categoria": "juguete",
-        "imagen": ""
-    },
+    
+    
+
     {
         "id": 752198,
         "nombre": "TOTAL FULL CHICOS HASTA 10",
         "categoria": "perro y gato",
         "imagen": ""
     },
-    {
-        "id": 752199,
-        "nombre": "TOTAL FULL GRANDES HASTA 60",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 752197,
-        "nombre": "TOTAL FULL MEDIANOS HASTA 20",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 752131,
-        "nombre": "PASTILLAS POWER 10- 20",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
+    
+    
     {
         "id": 752129,
         "nombre": "PASTILLAS POWER 2 - 5",
         "categoria": "perro y gato",
         "imagen": ""
     },
-    {
-        "id": 752132,
-        "nombre": "PASTILLAS POWER 20 - 30",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
-    {
-        "id": 752133,
-        "nombre": "PASTILLAS POWER 30 - 40",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
-    {
-        "id": 752130,
-        "nombre": "PASTILLAS POWER 5 - 10",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
-    {
-        "id": 752179,
-        "nombre": "PASTILLA SIMPARICA PERRO 10 - 20",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 752177,
-        "nombre": "PASTILLA SIMPARICA PERRO 2.5 - 5",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 752178,
-        "nombre": "PASTILLA SIMPARICA PERRO 20 - 40",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 843661,
-        "nombre": "PASTILLA SIMPARICA PERRO 40 - 60",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 752176,
-        "nombre": "PASTILLA SIMPARICA PERRO 5 - 10",
-        "categoria": "perro",
-        "imagen": ""
-    },
+    
+    
     {
         "id": 753010,
         "nombre": "SHAMPOO  ELMER PULGA Y GARRAPATA",
@@ -2109,12 +813,7 @@
         "categoria": "perro y gato",
         "imagen": ""
     },
-    {
-        "id": 752229,
-        "nombre": "SHAMPOO OSSPRET CACHORRO",
-        "categoria": "perro",
-        "imagen": ""
-    },
+    
     
     {
         "id": 752228,
@@ -2140,202 +839,156 @@
         "categoria": "perro y gato",
         "imagen": ""
     },
-    {
-        "id": 761599,
-        "nombre": "SACA NUDO",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 2083119,
-        "nombre": "MEDALLA FACIL GRABADO CORAZON",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
-    {
-        "id": 2083120,
-        "nombre": "MEDALLA FACIL GRABADO PESCADO",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
-    {
-        "id": 2543381,
-        "nombre": "MEDALLA INTELIGENTE",
-        "categoria": "perro y gato",
-        "imagen": ""
-    },
+    
+
     {
         "id": 2534096,
         "nombre": "MEDDALLA O HUELLA PREMIUM",
         "categoria": "perro y gato",
         "imagen": ""
     },
-    {
-        "id": 2652616,
-        "nombre": "VARITA CON PLUMAS Y CASCABEL",
-        "categoria": "juguete",
-        "imagen": ""
-    },
-    {
-        "id": 2375005,
-        "nombre": "VASO CLEAN CHICO",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 761600,
-        "nombre": "MANOPLA CEPILLO MINI NEW",
-        "categoria": "perro",
-        "imagen": ""
-    },
-    {
-        "id": 2529834,
-        "nombre": "POLLO CHIFLE DE COLORES",
-        "categoria": "juguete",
-        "imagen": ""
-    },
+        { "id": 753331, "nombre": "LAMPARA LED ECONOMICO", "categoria": "varios", "imagen": "/imagenes_productos-sahumerios/9.webp" },
 
     
-    { "id": 750906, "nombre": "BABOSIL CEBO 200", "categoria": "veneno", "imagen": "" },
-    { "id": 750907, "nombre": "BABOSIL LIQUIDO 100", "categoria": "veneno", "imagen": "" },
-    { "id": 750908, "nombre": "BABOSIL MICROPELLETS 100", "categoria": "veneno", "imagen": "" },
-    { "id": 752034, "nombre": "BAYGON VERDE CUCARACHAS AEROSOL 300", "categoria": "veneno", "imagen": "" },
-    { "id": 752878, "nombre": "DOG OUT", "categoria": "veneno", "imagen": "" },
-    { "id": 750933, "nombre": "ECTHOL 5  70/120", "categoria": "veneno", "imagen": "" },
-    { "id": 2543380, "nombre": "FLUIDO ESPACIAL", "categoria": "veneno", "imagen": "" },
-    { "id": 752882, "nombre": "FUMIXAN PASTILLA", "categoria": "veneno", "imagen": "" },
-    { "id": 752909, "nombre": "FUNGOXAN 30", "categoria": "veneno", "imagen": "" },
-    { "id": 750829, "nombre": "FUYI AEROSOL INSECTICIDA COMUN 360", "categoria": "veneno", "imagen": "" },
-    { "id": 750889, "nombre": "GELTEK JERINGA CUCARACHA 6/12", "categoria": "veneno", "imagen": "" },
-    { "id": 750887, "nombre": "GELTEK JERINGA HORMIGA 6/12", "categoria": "veneno", "imagen": "" },
-    { "id": 752908, "nombre": "GLACOXAN CIPER 30", "categoria": "veneno", "imagen": "" },
-    { "id": 752913, "nombre": "GLACOXAN HOJA ANCHA", "categoria": "veneno", "imagen": "" },
-    { "id": 2674888, "nombre": "GLACOXAN TOTAL 100", "categoria": "veneno", "imagen": "" },
-    { "id": 2509439, "nombre": "GORRION ESPIRAL X 4", "categoria": "veneno", "imagen": "" },
-    { "id": 756965, "nombre": "HORMIFLEX", "categoria": "veneno", "imagen": "" },
-    { "id": 756966, "nombre": "HORMITRAMP", "categoria": "veneno", "imagen": "" },
-    { "id": 750921, "nombre": "HORMIX HUAGRO TALCO 250", "categoria": "veneno", "imagen": "" },
-    { "id": 750833, "nombre": "HORTAL CEBO 100/250/500 gr", "categoria": "veneno", "imagen": "" },
-    { "id": 750854, "nombre": "HORTAL LIQUIDO 60/120250/500", "categoria": "veneno", "imagen": "" },
-    { "id": 750856, "nombre": "HORTAL POLVO 250", "categoria": "veneno", "imagen": "" },
-    { "id": 2587602, "nombre": "INSECTICIDA AEROSOL GORRION NEGRO", "categoria": "veneno", "imagen": "" },
-    { "id": 1508318, "nombre": "MYRMEC VENENO HORMIGA 100/200/500 GR", "categoria": "veneno", "imagen": "" },
-    { "id": 2567807, "nombre": "PULVERIZADR GT 2L", "categoria": "veneno", "imagen": "" },
-    { "id": 752963, "nombre": "QUESITOS", "categoria": "veneno", "imagen": "" },
-    { "id": 750826, "nombre": "RAID AEROSOL CASA Y JARDIN", "categoria": "veneno", "imagen": "" },
-    { "id": 750827, "nombre": "RAID AEROSOL CUCARACHAS", "categoria": "veneno", "imagen": "" },
-    { "id": 750825, "nombre": "RAID AEROSOL HORMIGAS", "categoria": "veneno", "imagen": "" },
-    { "id": 750824, "nombre": "RAID AEROSOL MOSCA Y MOSQUITO", "categoria": "veneno", "imagen": "" },
-    { "id": 2529746, "nombre": "RAID ESPIRAL SOBRE X 4", "categoria": "veneno", "imagen": "" },
-    { "id": 754889, "nombre": "RAID ESPIRAL X 12 VERDE", "categoria": "veneno", "imagen": "" },
-    { "id": 1991436, "nombre": "RAID MATA PULGAS", "categoria": "veneno", "imagen": "" },
-    { "id": 2470110, "nombre": "RAID TABLETA X 12/24", "categoria": "veneno", "imagen": "" },
-    { "id": 2209974, "nombre": "RATICIDA RODENT LIQUIDO", "categoria": "veneno", "imagen": "" },
-    { "id": 2509440, "nombre": "TOTAL DERRIBANTE X 100", "categoria": "veneno", "imagen": "" },
-    { "id": 753045, "nombre": "TRAMPERA COYOTE RATA", "categoria": "veneno", "imagen": "" },
-    { "id": 757306, "nombre": "TRAMPERA RATA CHAPA", "categoria": "veneno", "imagen": "" },
-    { "id": 757293, "nombre": "TRAMPERA RATA MADERA", "categoria": "veneno", "imagen": "" },
-    { "id": 752875, "nombre": "TRIUNFO", "categoria": "veneno", "imagen": "" },
-    { "id": 750996, "nombre": "ULTRA PLUS RATAS 50", "categoria": "veneno", "imagen": "" },
-    { "id": 752884, "nombre": "ULTRA PUM", "categoria": "veneno", "imagen": "" },
-    { "id": 752907, "nombre": "VELOXAN DERRIBANTE 250", "categoria": "veneno", "imagen": "" },
-    { "id": 752905, "nombre": "VELOXAN DERRIBANTE 60", "categoria": "veneno", "imagen": "" },
-    { "id": 751006, "nombre": "VENUS LUSTRA METAL", "categoria": "veneno", "imagen": "" },
+    
+    
+
+    
+    { "id": 750906, "nombre": "BABOSIL CEBO 200", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/1.jpg" },
+    { "id": 750907, "nombre": "BABOSIL LIQUIDO 100", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/2.jpg" },
+    { "id": 750908, "nombre": "BABOSIL MICROPELLETS 100", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/3.webp" },
+    { "id": 752034, "nombre": "BAYGON VERDE CUCARACHAS AEROSOL 300", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/4.webp" },
+    { "id": 752878, "nombre": "DOG OUT", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/5.jpg" },
+    { "id": 750933, "nombre": "ECTHOL 5  70/120", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/6.png" },
+    { "id": 2543380, "nombre": "FLUIDO ESPACIAL", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/7.jpg" },
+    { "id": 752882, "nombre": "FUMIXAN PASTILLA", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/8.jpeg" },
+    { "id": 752909, "nombre": "FUNGOXAN 30", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/9.webp" },
+    { "id": 750829, "nombre": "FUYI AEROSOL INSECTICIDA COMUN 360", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/10.webp" },
+    { "id": 750889, "nombre": "GELTEK JERINGA CUCARACHA 6/12", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/11.jpg" },
+    { "id": 750887, "nombre": "GELTEK JERINGA HORMIGA 6/12", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/12.jpg" },
+    { "id": 752908, "nombre": "GLACOXAN CIPER 30", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/13.webp" },
+    { "id": 752913, "nombre": "GLACOXAN HOJA ANCHA", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/14.jpg" },
+    { "id": 2674888, "nombre": "GLACOXAN TOTAL 100", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/15.webp" },
+    { "id": 2509439, "nombre": "GORRION ESPIRAL X 4", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/16.webp" },
+    { "id": 756965, "nombre": "HORMIFLEX", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/17.webp" },
+    { "id": 756966, "nombre": "HORMITRAMP", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/18.jpg" },
+    { "id": 750921, "nombre": "HORMIX HUAGRO TALCO 250", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/19.jpeg" },
+    { "id": 750833, "nombre": "HORTAL CEBO 100/250/500 gr", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/20.webp" },
+    { "id": 750854, "nombre": "HORTAL LIQUIDO 60/120250/500", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/21.png" },
+    { "id": 750856, "nombre": "HORTAL POLVO 250", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/22.jpg" },
+    { "id": 2587602, "nombre": "INSECTICIDA AEROSOL GORRION NEGRO", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/23.jpg" },
+    { "id": 1508318, "nombre": "MYRMEC VENENO HORMIGA 100/200/500 GR", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/24.webp" },
+    { "id": 2567807, "nombre": "PULVERIZADR GT 2L", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/25.webp" },
+    { "id": 752963, "nombre": "QUESITOS", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/26.webp" },
+    { "id": 750826, "nombre": "RAID AEROSOL CASA Y JARDIN", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/27.webp" },
+    { "id": 750827, "nombre": "RAID AEROSOL CUCARACHAS", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/28.webp" },
+    { "id": 750825, "nombre": "RAID AEROSOL HORMIGAS", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/29.jpeg" },
+    { "id": 750824, "nombre": "RAID AEROSOL MOSCA Y MOSQUITO", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/30.webp" },
+    { "id": 2529746, "nombre": "RAID ESPIRAL SOBRE X 4", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/31.jpg" },
+    { "id": 754889, "nombre": "RAID ESPIRAL X 12 VERDE", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/32.jpeg" },
+    { "id": 1991436, "nombre": "RAID MATA PULGAS", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/33.webp" },
+    { "id": 2470110, "nombre": "RAID TABLETA X 12/24", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/34.jpeg" },
+    { "id": 2209974, "nombre": "RATICIDA RODENT LIQUIDO", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/35.webp" },
+    { "id": 2509440, "nombre": "TOTAL DERRIBANTE X 100", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/36.jpeg" },
+    { "id": 753045, "nombre": "TRAMPERA COYOTE RATA", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/37.webp" },
+    { "id": 757306, "nombre": "TRAMPERA RATA CHAPA", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/38.png" },
+    { "id": 757293, "nombre": "TRAMPERA RATA MADERA", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/39.webp" },
+    { "id": 752875, "nombre": "TRIUNFO", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/40.webp" },
+    { "id": 750996, "nombre": "ULTRA PLUS RATAS 50", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/41.webp" },
+    { "id": 752884, "nombre": "ULTRA PUM", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/42.jpeg" },
+    { "id": 752907, "nombre": "VELOXAN DERRIBANTE 250", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/43.png" },
+    { "id": 752905, "nombre": "VELOXAN DERRIBANTE 60", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/44.jpg" },
+    { "id": 751006, "nombre": "VENUS LUSTRA METAL", "categoria": "veneno", "imagen": "/imagenes_producto_venenos/45.webp" },
 
 
     
-    { "id": 1976488, "nombre": "BOMBITA DEFUMACION X4", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1776966, "nombre": "CASCADA DE HUMO GRANDE", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1446435, "nombre": "CASCADA HUMO", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1446436, "nombre": "CONITOS PARA CASCADA HUMO", "categoria": "sahumerio", "imagen": "" },
-    { "id": 753348, "nombre": "ESENCIA HORNITOS", "categoria": "sahumerio", "imagen": "" },
-    { "id": 2721788, "nombre": "FOQUITO LAMPARA DE SAL", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1511899, "nombre": "HORNITO", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1609632, "nombre": "LAMPARA DE SAL", "categoria": "sahumerio", "imagen": "" },
-    { "id": 753331, "nombre": "LAMPARA LED ECONOMICO", "categoria": "sahumerio", "imagen": "" },
-    { "id": 2499634, "nombre": "MADERITAS SAHUMERIO PALO SANTO", "categoria": "sahumerio", "imagen": "" },
-    { "id": 2777183, "nombre": "PERFUME AUTO", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1511900, "nombre": "PORTA SAHUMERIO CERAMICA", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1378765, "nombre": "PORTA SAHUMERIOS", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1240115, "nombre": "SAGRADA MADDRE VELONCITOS AROMATICOS X3", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1181348, "nombre": "SAGRADA MADRE 5 ELEMENTOS", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1088776, "nombre": "SAGRADA MADRE 7 CHACRAS BOMBITAS", "categoria": "sahumerio", "imagen": "" },
-    { "id": 999474, "nombre": "SAGRADA MADRE 7 DIAS LIMPIEZA BOMBITA", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1446433, "nombre": "SAGRADA MADRE 8 VARILLAS NATURAL", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1345188, "nombre": "SAGRADA MADRE BOMBITA DEFUMACION CAJITA", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1181349, "nombre": "SAGRADA MADRE ENERGIA LIMPIA", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1181350, "nombre": "SAGRADA MADRE KIT HUMITO SAGRADO", "categoria": "sahumerio", "imagen": "" },
-    { "id": 753347, "nombre": "SAGRADA MADRE PALO SANTO CON ...", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1446434, "nombre": "SAGRADA MADRE PALO SANTO REBOZADO", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1345183, "nombre": "SAGRADA MADRE PIRAMIDE ENERGETICA", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1181351, "nombre": "SAGRADA MADRE SAHUMERIO 7 CHACRAS", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1088778, "nombre": "SAGRADA MADRE SAHUMERIO SATYA NAG CHAMPA", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1201082, "nombre": "SAGRADA MADRE SAHUMERIO YAGRA", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1345181, "nombre": "SAGRADA MADRE TIBETANOS", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1398393, "nombre": "SAHUMADORESS CERAMICA", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1527150, "nombre": "SAHUMERIO AGRADA MADRE PATAGONIA", "categoria": "sahumerio", "imagen": "" },
-    { "id": 2225648, "nombre": "SAHUMERIO BANJARA", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1088775, "nombre": "SAHUMERIO BOTANICA SAGRADA MADRE", "categoria": "sahumerio", "imagen": "" },
-    { "id": 2051823, "nombre": "SAHUMERIO BUDA LITTLE", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1088777, "nombre": "SAHUMERIO DUO SAGRADA MADRE", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1976490, "nombre": "SAHUMERIO POLVO", "categoria": "sahumerio", "imagen": "" },
-    { "id": 2424936, "nombre": "SAHUMERIO RITUAL SAGRADA MADRE", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1983761, "nombre": "SAHUMERIO SAGRADA MADRE CANABIS", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1398425, "nombre": "SAHUMERIO SAGRADA MADRE TRIPLE COMBINADO", "categoria": "sahumerio", "imagen": "" },
-    { "id": 999473, "nombre": "SAHUMERIO SAI BABA", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1743272, "nombre": "SAHUMERIO SUELTO", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1398427, "nombre": "SAHUMERIOS  HIERBAS 9 VARILLAS", "categoria": "sahumerio", "imagen": "" },
-    { "id": 2321518, "nombre": "SAHUMERIOS 20 VARILLASS SAGRADA MADRE", "categoria": "sahumerio", "imagen": "" },
-    { "id": 2075459, "nombre": "SAHUMERIOS ARTESANOS", "categoria": "sahumerio", "imagen": "" },
-    { "id": 753346, "nombre": "SAHUMERIOS HEXAGONAL EN CAJA", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1398426, "nombre": "SAHUMERIOS SAGRADA MADRE MAGICOS", "categoria": "sahumerio", "imagen": "" },
-    { "id": 2160716, "nombre": "SAHUMERIOS ULLAS", "categoria": "sahumerio", "imagen": "" },
-    { "id": 1398429, "nombre": "TABLITAS PORTA SAHUMERIO", "categoria": "sahumerio", "imagen": "" },
-    { "id": 753326, "nombre": "VELAS DE NOCHE HORNO", "categoria": "sahumerio", "imagen": "" },
+    { "id": 1976488, "nombre": "BOMBITA DEFUMACION X4", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/1.webp" },
+    { "id": 1776966, "nombre": "CASCADA DE HUMO GRANDE", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/2.webp" },
+    { "id": 1446435, "nombre": "CASCADA HUMO", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/3.jpg" },
+    { "id": 1446436, "nombre": "CONITOS PARA CASCADA HUMO", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/4.jpg" },
+    { "id": 753348, "nombre": "ESENCIA HORNITOS", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/5.png" },
+    { "id": 2721788, "nombre": "FOQUITO LAMPARA DE SAL", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/6.jpg" },
+    { "id": 1511899, "nombre": "HORNITO", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/7.png" },
+    { "id": 1609632, "nombre": "LAMPARA DE SAL", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/8.webp" },
+    { "id": 2499634, "nombre": "MADERITAS SAHUMERIO PALO SANTO", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/9.webp" },
+    { "id": 2777183, "nombre": "PERFUME AUTO", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/10.webp" },
+    { "id": 1511900, "nombre": "PORTA SAHUMERIO CERAMICA", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/11.jpg" },
+    { "id": 1378765, "nombre": "PORTA SAHUMERIOS", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/12.jpg" },
+    { "id": 1240115, "nombre": "SAGRADA MADDRE VELONCITOS AROMATICOS X3", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/13.webp" },
+    { "id": 1181348, "nombre": "SAGRADA MADRE 5 ELEMENTOS", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/14.webp" },
+    { "id": 1088776, "nombre": "SAGRADA MADRE 7 CHACRAS BOMBITAS", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/15.jpg" },
+    { "id": 999474, "nombre": "SAGRADA MADRE 7 DIAS LIMPIEZA BOMBITA", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/16.png" },
+    { "id": 1446433, "nombre": "SAGRADA MADRE 8 VARILLAS NATURAL", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/17.png" },
+    { "id": 1345188, "nombre": "SAGRADA MADRE BOMBITA DEFUMACION CAJITA", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/18.webp" },
+    { "id": 1181349, "nombre": "SAGRADA MADRE ENERGIA LIMPIA", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/19.jpeg" },
+    { "id": 1181350, "nombre": "SAGRADA MADRE KIT HUMITO SAGRADO", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/20.jpg" },
+    { "id": 753347, "nombre": "SAGRADA MADRE PALO SANTO CON ...", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/21.jpg" },
+    { "id": 1446434, "nombre": "SAGRADA MADRE PALO SANTO REBOZADO", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/22.jpeg" },
+    { "id": 1345183, "nombre": "SAGRADA MADRE PIRAMIDE ENERGETICA", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/23.jpg" },
+    { "id": 1181351, "nombre": "SAGRADA MADRE SAHUMERIO 7 CHACRAS", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/24.jpg" },
+    { "id": 1088778, "nombre": "SAGRADA MADRE SAHUMERIO SATYA NAG CHAMPA", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/25.webp" },
+    { "id": 1201082, "nombre": "SAGRADA MADRE SAHUMERIO YAGRA", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/26.jpg" },
+    { "id": 1345181, "nombre": "SAGRADA MADRE TIBETANOS", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/27.webp" },
+    { "id": 1398393, "nombre": "SAHUMADORESS CERAMICA", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/28.jpeg" },
+    { "id": 1527150, "nombre": "SAHUMERIO AGRADA MADRE PATAGONIA", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/29.webp" },
+    { "id": 2225648, "nombre": "SAHUMERIO BANJARA", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/30.webp" },
+    { "id": 1088775, "nombre": "SAHUMERIO BOTANICA SAGRADA MADRE", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/31.jpeg" },
+    { "id": 2051823, "nombre": "SAHUMERIO BUDA LITTLE", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/32.jpeg" },
+    { "id": 1088777, "nombre": "SAHUMERIO DUO SAGRADA MADRE", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/33.jpg" },
+    { "id": 1976490, "nombre": "SAHUMERIO POLVO", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/34.jpg" },
+    { "id": 2424936, "nombre": "SAHUMERIO RITUAL SAGRADA MADRE", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/35.jpg" },
+    { "id": 1983761, "nombre": "SAHUMERIO SAGRADA MADRE CANABIS", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/36.jpg" },
+    { "id": 1398425, "nombre": "SAHUMERIO SAGRADA MADRE TRIPLE COMBINADO", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/37.png" },
+    { "id": 1743272, "nombre": "SAHUMERIO SUELTO", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/38.jpeg" },
+    { "id": 1398427, "nombre": "SAHUMERIOS  HIERBAS 9 VARILLAS", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/39.jpeg" },
+    { "id": 2321518, "nombre": "SAHUMERIOS 20 VARILLASS SAGRADA MADRE", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/40.webp" },
+    { "id": 2075459, "nombre": "SAHUMERIOS ARTESANOS", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/41.webp" },
+    { "id": 753346, "nombre": "SAHUMERIOS HEXAGONAL EN CAJA", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/42.jpg" },
+    { "id": 1398426, "nombre": "SAHUMERIOS SAGRADA MADRE MAGICOS", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/43.webp" },
+    { "id": 1398429, "nombre": "TABLITAS PORTA SAHUMERIO", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/44.webp" },
+    { "id": 753326, "nombre": "VELAS DE NOCHE HORNO", "categoria": "sahumerio", "imagen": "/imagenes_productos-sahumerios/45.jpeg" },
 
 
-    { "id": 1965768, "nombre": "BALDE 12 L", "categoria": "jardineria", "imagen": "" },
-    { "id": 754793, "nombre": "BARRE HOJAS 60 CM NARANJA", "categoria": "jardineria", "imagen": "" },
-    { "id": 754794, "nombre": "BARRE HOJAS COMUN", "categoria": "jardineria", "imagen": "" },
-    { "id": 761623, "nombre": "BEBEDERO PICAFLOR SIN SOPORTE", "categoria": "jardineria", "imagen": "" },
-    { "id": 752957, "nombre": "CESPED GOLD PACK MEDIA SOMBRA", "categoria": "jardineria", "imagen": "" },
-    { "id": 1177715, "nombre": "CESPED GOLD-PACK PIOTEO 400GRSS", "categoria": "jardineria", "imagen": "" },
-    { "id": 750924, "nombre": "FERTIFOX ACTIVADOR FLORACION", "categoria": "jardineria", "imagen": "" },
-    { "id": 750925, "nombre": "FERTIFOX ACTIVADOR FOLLAJE", "categoria": "jardineria", "imagen": "" },
-    { "id": 750923, "nombre": "FERTIFOX POTENCIADO", "categoria": "jardineria", "imagen": "" },
-    { "id": 1177714, "nombre": "FERTIFOZ ENRAIZADOR 75CC", "categoria": "jardineria", "imagen": "" },
-    { "id": 752932, "nombre": "FERTILIZANTE 15-15-15 500", "categoria": "jardineria", "imagen": "" },
-    { "id": 2210089, "nombre": "FERTILIZANTE SULFATO DE HIERRO GRHESA", "categoria": "jardineria", "imagen": "" },
-    { "id": 1126839, "nombre": "GREEN LAND CESPED 9 VARIEDADES 500 GRS", "categoria": "jardineria", "imagen": "" },
-    { "id": 1600898, "nombre": "GREEN LAND CESPED MEDIA SOMBRA 500", "categoria": "jardineria", "imagen": "" },
-    { "id": 753266, "nombre": "GUANTES MOTEADOS GRIS", "categoria": "jardineria", "imagen": "" },
-    { "id": 752933, "nombre": "HARINA DE HUESO 500", "categoria": "jardineria", "imagen": "" },
-    { "id": 753180, "nombre": "MACETA APILABLE TREBOL", "categoria": "jardineria", "imagen": "" },
-    { "id": 753131, "nombre": "MACETA AUTORRIEGO 3", "categoria": "jardineria", "imagen": "" },
-    { "id": 1066955, "nombre": "MACETA AUTORRIEGO JARDINERA 20", "categoria": "jardineria", "imagen": "" },
-    { "id": 753185, "nombre": "MACETA BOLS 15", "categoria": "jardineria", "imagen": "" },
-    { "id": 943743, "nombre": "MACETA CLASICA  32", "categoria": "jardineria", "imagen": "" },
-    { "id": 753150, "nombre": "MACETA CUADRADA 10", "categoria": "jardineria", "imagen": "" },
-    { "id": 753172, "nombre": "MACETA DECO 12", "categoria": "jardineria", "imagen": "" },
-    { "id": 753133, "nombre": "MACETA FASETADA 15", "categoria": "jardineria", "imagen": "" },
-    { "id": 1177686, "nombre": "MACETA JARDINERA  50CM", "categoria": "jardineria", "imagen": "" },
-    { "id": 753128, "nombre": "MACETA JARDINERA 35", "categoria": "jardineria", "imagen": "" },
-    { "id": 753129, "nombre": "MACETA JARDINERA MINI 20", "categoria": "jardineria", "imagen": "" },
-    { "id": 2543376, "nombre": "MACETA JARDINERA ROCIO N 35", "categoria": "jardineria", "imagen": "" },
-    { "id": 2543389, "nombre": "MACETA PAILA N 35", "categoria": "jardineria", "imagen": "" },
-    { "id": 753135, "nombre": "MACETA SIMIL 12", "categoria": "jardineria", "imagen": "" },
-    { "id": 752935, "nombre": "NITROFOSKA 500", "categoria": "jardineria", "imagen": "" },
-    { "id": 753142, "nombre": "PLATO MACETA 18", "categoria": "jardineria", "imagen": "" },
-    { "id": 830775, "nombre": "REGADERA 2 L. NEW", "categoria": "jardineria", "imagen": "" },
-    { "id": 2543282, "nombre": "REGADOR FLOR", "categoria": "jardineria", "imagen": "" },
-    { "id": 754792, "nombre": "SACA HOJAS PILETA", "categoria": "jardineria", "imagen": "" },
-    { "id": 855832, "nombre": "SAPITO DE RIEGO", "categoria": "jardineria", "imagen": "" },
-    { "id": 752937, "nombre": "SULFATO DE HIERRO 500", "categoria": "jardineria", "imagen": "" },
-    { "id": 753103, "nombre": "TIERRA CAPTUS", "categoria": "jardineria", "imagen": "" },
-    { "id": 753104, "nombre": "TIERRA CHICA 5 DM3", "categoria": "jardineria", "imagen": "" },
-    { "id": 753106, "nombre": "TIERRA GRANDE 25 DM3", "categoria": "jardineria", "imagen": "" },
-    { "id": 753105, "nombre": "TIERRA MEDIANA 10 DM3", "categoria": "jardineria", "imagen": "" },
-    { "id": 752934, "nombre": "UREA ACTIVADOR DE FOLLAJE 500", "categoria": "jardineria", "imagen": "" },
+    { "id": 1965768, "nombre": "BALDE 12 L", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/1.webp" },
+    { "id": 754793, "nombre": "BARRE HOJAS 60 CM NARANJA", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/2.jpg" },
+    { "id": 754794, "nombre": "BARRE HOJAS COMUN", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/3.jpeg" },
+    { "id": 761623, "nombre": "BEBEDERO PICAFLOR SIN SOPORTE", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/4.webp" },
+    { "id": 752957, "nombre": "CESPED GOLD PACK MEDIA SOMBRA", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/5.png" },
+    { "id": 1177715, "nombre": "CESPED GOLD-PACK PIOTEO 400GRSS", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/6.png" },
+    { "id": 750924, "nombre": "FERTIFOX ACTIVADOR FLORACION", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/7.jpg" },
+    { "id": 750925, "nombre": "FERTIFOX ACTIVADOR FOLLAJE", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/8.png" },
+    { "id": 750923, "nombre": "FERTIFOX POTENCIADO", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/9.jpg" },
+    { "id": 1177714, "nombre": "FERTIFOZ ENRAIZADOR 75CC", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/10.jpg" },
+    { "id": 752932, "nombre": "FERTILIZANTE 15-15-15 500", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/11.jpg" },
+    { "id": 2210089, "nombre": "FERTILIZANTE SULFATO DE HIERRO GRHESA", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/12.webp" },
+    { "id": 1126839, "nombre": "GREEN LAND CESPED 9 VARIEDADES 500 GRS", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/13.webp" },
+    { "id": 1600898, "nombre": "GREEN LAND CESPED MEDIA SOMBRA 500", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/14.webp" },
+    { "id": 753266, "nombre": "GUANTES MOTEADOS GRIS", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/15.webp" },
+    { "id": 752933, "nombre": "HARINA DE HUESO 500", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/16.jpg" },
+    { "id": 753180, "nombre": "MACETA APILABLE TREBOL", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/17.png" },
+    { "id": 753131, "nombre": "MACETA AUTORRIEGO 3", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/18.webp" },
+    { "id": 1066955, "nombre": "MACETA AUTORRIEGO JARDINERA 20", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/19.webp" },
+    { "id": 753185, "nombre": "MACETA BOLS 15", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/20.png" },
+    { "id": 943743, "nombre": "MACETA CLASICA  32", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/21.jpg" },
+    { "id": 753150, "nombre": "MACETA CUADRADA 10", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/22.jpg" },
+    { "id": 753172, "nombre": "MACETA DECO 12", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/23.png" },
+    { "id": 753133, "nombre": "MACETA FASETADA 15", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/24.webp" },
+    { "id": 1177686, "nombre": "MACETA JARDINERA  50CM", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/25.webp" },
+    { "id": 753128, "nombre": "MACETA JARDINERA 35", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/26.webp" },
+    { "id": 753129, "nombre": "MACETA JARDINERA MINI 20", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/27.webp" },
+    { "id": 2543376, "nombre": "MACETA JARDINERA ROCIO N 35", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/28.webp" },
+    { "id": 2543389, "nombre": "MACETA PAILA N 35", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/29.webp" },
+    { "id": 753135, "nombre": "MACETA SIMIL 12", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/30.jpg" },
+    { "id": 752935, "nombre": "NITROFOSKA 500", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/31.jpeg" },
+    { "id": 753142, "nombre": "PLATO MACETA 18", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/32.webp" },
+    { "id": 830775, "nombre": "REGADERA 2 L. NEW", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/33.webp" },
+    { "id": 2543282, "nombre": "REGADOR FLOR", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/34.webp" },
+    { "id": 754792, "nombre": "SACA HOJAS PILETA", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/35.webp" },
+    { "id": 855832, "nombre": "SAPITO DE RIEGO", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/36.webp" },
+    { "id": 752937, "nombre": "SULFATO DE HIERRO 500", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/37.webp" },
+    { "id": 753103, "nombre": "TIERRA CAPTUS", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/38.jpeg" },
+    { "id": 753104, "nombre": "TIERRA  5/10/25 DM3", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/39.webp" },
+    { "id": 752934, "nombre": "UREA ACTIVADOR DE FOLLAJE 500", "categoria": "jardineria", "imagen": "/imagenes_producto_jardineria/40.png" },
 
     
     { "id": 756323, "nombre": "BOMBILLA 1 RESORTE", "categoria": "varios", "imagen": "" },
@@ -2402,8 +1055,205 @@
     { "id": 776231, "nombre": "TERMOMETRO", "categoria": "varios", "imagen": "" },
     { "id": 751042, "nombre": "UNIPOX", "categoria": "varios", "imagen": "" },
     { "id": 753325, "nombre": "VELAS X 4", "categoria": "varios", "imagen": "" },
-    { "id": 1448723, "nombre": "WD-40", "categoria": "varios", "imagen": "" }
+    { "id": 1448723, "nombre": "WD-40", "categoria": "varios", "imagen": "" },
 
+
+
+{ "id": 1416866, "nombre": "HUESO DE GOMA MACIZO GRANDE y MEDIANO", "categoria": "juguete", "imagen": "" },
+{ "id": 1370150, "nombre": "HUESO SOGA CON 2 PELOTAS", "categoria": "juguete", "imagen": "" },
+{ "id": 1155871, "nombre": "HUESO Z PASTEL MORDILLO CHICO", "categoria": "juguete", "imagen": "" },
+{ "id": 1466313, "nombre": "JUGUETE ANTI ESTRES GRANDE", "categoria": "juguete", "imagen": "" },
+{ "id": 2473378, "nombre": "JUGUETE BATIBOOMERANG", "categoria": "juguete", "imagen": "" },
+{ "id": 2473375, "nombre": "JUGUETE BIFE MEDIANO", "categoria": "juguete", "imagen": "" },
+{ "id": 2473374, "nombre": "JUGUETE BOOMERANG", "categoria": "juguete", "imagen": "" },
+{ "id": 818907, "nombre": "JUGUETE CAÑITA (20)", "categoria": "juguete", "imagen": "" },
+{ "id": 818906, "nombre": "JUGUETE CAÑITA CORAZON (19)", "categoria": "juguete", "imagen": "" },
+{ "id": 2318168, "nombre": "JUGUETE CHANCHO A CUERDA", "categoria": "juguete", "imagen": "" },
+{ "id": 818888, "nombre": "JUGUETE CON CHIFLE (9)", "categoria": "juguete", "imagen": "" },
+{ "id": 818881, "nombre": "JUGUETE DIARIO VINILO (2)", "categoria": "juguete", "imagen": "" },
+{ "id": 1757599, "nombre": "JUGUETE FRISBEE PLASTICO ECONOMICO", "categoria": "juguete", "imagen": "" },
+{ "id": 2130938, "nombre": "JUGUETE GALLINA CHIFLE GRANDE Y CHICA", "categoria": "juguete", "imagen": "" },
+{ "id": 2450119, "nombre": "JUGUETE HUESITO PORTA SNACK", "categoria": "juguete", "imagen": "" },
+{ "id": 2136526, "nombre": "JUGUETE HUESO ANTISARRO", "categoria": "juguete", "imagen": "" },
+{ "id": 1748859, "nombre": "JUGUETE HUESO SOGA C/PELOTA 40MM", "categoria": "juguete", "imagen": "" },
+{ "id": 2154100, "nombre": "JUGUETE JUMPER CHICO", "categoria": "juguete", "imagen": "" },
+{ "id": 818897, "nombre": "JUGUETE LANZA DISCOS (15)", "categoria": "juguete", "imagen": "" },
+{ "id": 761823, "nombre": "JUGUETE LANZA PELOTA (16)", "categoria": "juguete", "imagen": "" },
+{ "id": 818889, "nombre": "JUGUETE MORDILLO (10)", "categoria": "juguete", "imagen": "" },
+{ "id": 1348068, "nombre": "JUGUETE MORDILLO CHUPETTE CHICO", "categoria": "juguete", "imagen": "" },
+{ "id": 2318170, "nombre": "JUGUETE MORDILLO CON PELOTA", "categoria": "juguete", "imagen": "" },
+{ "id": 2318169, "nombre": "JUGUETE MORDILLO DOUBLE BITE", "categoria": "juguete", "imagen": "" },
+{ "id": 2154098, "nombre": "JUGUETE MORDILLO PORTA SNACK", "categoria": "juguete", "imagen": "" },
+{ "id": 2473376, "nombre": "JUGUETE MORDILLO SPINER", "categoria": "juguete", "imagen": "" },
+{ "id": 2822902, "nombre": "JUGUETE PALITO DE METAL CON GUSANO", "categoria": "juguete", "imagen": "" },
+{ "id": 2248360, "nombre": "JUGUETE PALITO DE METAL CON RATA", "categoria": "juguete", "imagen": "" },
+{ "id": 2136527, "nombre": "JUGUETE PATA POLLO C/CHIFLE", "categoria": "juguete", "imagen": "" },
+{ "id": 844209, "nombre": "JUGUETE PELOTA ACRILICA X 4 (28)", "categoria": "juguete", "imagen": "" },
+{ "id": 2822898, "nombre": "JUGUETE PELOTA BASQUET GRANDE CON CHIFLE", "categoria": "juguete", "imagen": "" },
+{ "id": 844193, "nombre": "JUGUETE PELOTA CHICA SONAJERO X 4 (27)", "categoria": "juguete", "imagen": "" },
+{ "id": 2567085, "nombre": "JUGUETE PELOTA CON BOLITAS", "categoria": "juguete", "imagen": "" },
+{ "id": 2248335, "nombre": "JUGUETE PELOTA DE GOMA 6.5CM", "categoria": "juguete", "imagen": "" },
+{ "id": 818908, "nombre": "JUGUETE PELOTA FUTBOL X 6 (21)", "categoria": "juguete", "imagen": "" },
+{ "id": 2634968, "nombre": "JUGUETE PELOTA GOMA BASQUET 90MM", "categoria": "juguete", "imagen": "" },
+{ "id": 1141183, "nombre": "JUGUETE PELOTA HILO X 4", "categoria": "juguete", "imagen": "" },
+{ "id": 818895, "nombre": "JUGUETE PELOTA MACIZA GRANDE Y MEDIANA", "categoria": "juguete", "imagen": "" },
+{ "id": 1537607, "nombre": "JUGUETE PELOTA TENIS", "categoria": "juguete", "imagen": "" },
+{ "id": 2473377, "nombre": "JUGUETE PESCADITO GOMA", "categoria": "juguete", "imagen": "" },
+{ "id": 1646820, "nombre": "JUGUETE RATA BRILLO CASCABEL C/PELOTA", "categoria": "juguete", "imagen": "" },
+{ "id": 1373403, "nombre": "JUGUETE RATITA BASE C/ RESORTE", "categoria": "juguete", "imagen": "" },
+{ "id": 818910, "nombre": "JUGUETE RATITA MINI X 3 (23)", "categoria": "juguete", "imagen": "" },
+{ "id": 818913, "nombre": "JUGUETE RATITA NACIONAL (26)", "categoria": "juguete", "imagen": "" },
+{ "id": 2567067, "nombre": "JUGUETE SOGA / NUDDO CHICO", "categoria": "juguete", "imagen": "" },
+{ "id": 1155870, "nombre": "JUGUETE SOGA 7 TRENZA", "categoria": "juguete", "imagen": "" },
+{ "id": 1239955, "nombre": "JUGUETE SOGA NUDO TRENZA + ARO", "categoria": "juguete", "imagen": "" },
+{ "id": 2318175, "nombre": "JUGUETE SOGA SURTIDO", "categoria": "juguete", "imagen": "" },
+{ "id": 1755445, "nombre": "JUGUETE SOGA TIRADOR + PELOTA", "categoria": "juguete", "imagen": "" },
+{ "id": 1332659, "nombre": "JUGUETE SOPORTE+TAMBOR+PELOTA", "categoria": "juguete", "imagen": "" },
+{ "id": 2248338, "nombre": "JUGUETE TORTUGA A CUERDA", "categoria": "juguete", "imagen": "" },
+{ "id": 2543385, "nombre": "JUGUETE VAIVEN CON PLUMAS", "categoria": "juguete", "imagen": "" },
+{ "id": 1405332, "nombre": "JUGUETE VARITA GATO C / POMPON", "categoria": "juguete", "imagen": "" },
+{ "id": 1154584, "nombre": "JUGUETE VINILO RUEDA C/CHIFLE 10X10X4", "categoria": "juguete", "imagen": "" },
+{ "id": 2797658, "nombre": "PELOTA ANTI ESTRES CHICA", "categoria": "juguete", "imagen": "" },
+{ "id": 2797729, "nombre": "PELOTA ANTI ESTRES GRANDE", "categoria": "juguete", "imagen": "" },
+{ "id": 2587605, "nombre": "PELOTA CON MOVIMIENTO USB GATO", "categoria": "juguete", "imagen": "" },
+{ "id": 2375011, "nombre": "PELOTA DOSIFICADORA", "categoria": "juguete", "imagen": "" },
+{ "id": 1320624, "nombre": "PELOTA FUTBOL CHICA C/CHIFLE", "categoria": "juguete", "imagen": "" },
+{ "id": 2567045, "nombre": "PELOTA GOMA BASQUET", "categoria": "juguete", "imagen": "" },
+{ "id": 2543383, "nombre": "PELOTA LENGUA CON LUZ", "categoria": "juguete", "imagen": "" },
+{ "id": 2519290, "nombre": "PELOTA RUGBY CON PICHES", "categoria": "juguete", "imagen": "" },
+{ "id": 1928065, "nombre": "PELOTA RUGBY RASCAL", "categoria": "juguete", "imagen": "" },
+{ "id": 1416867, "nombre": "PELOTA SELFIE", "categoria": "juguete", "imagen": "" },
+{ "id": 2587597, "nombre": "PELOTA VOLADORA", "categoria": "juguete", "imagen": "" },
+{ "id": 2529834, "nombre": "POLLO CHIFLE DE COLORES", "categoria": "juguete", "imagen": "" },
+{ "id": 2302070, "nombre": "RASCADOR CILINDRO MEDIANO AGATAR 20X8CM", "categoria": "juguete", "imagen": "" },
+{ "id": 2318174, "nombre": "RASCADOR MINI SIMON AGATAR 29X21X49", "categoria": "juguete", "imagen": "" },
+{ "id": 2590337, "nombre": "RASCADOR PIRAMIDE GUIZA AGATAR 12CM", "categoria": "juguete", "imagen": "" },
+{ "id": 2738691, "nombre": "RASCADOR RECTO CHICO AGATAR 20 X11.5X4CM", "categoria": "juguete", "imagen": "" },
+{ "id": 2662009, "nombre": "RASCADOR RECTO GRANDE 50X12X2", "categoria": "juguete", "imagen": "" },
+{ "id": 2694462, "nombre": "RASCADOR ZOO RATON AGATAR 15X14X12CM", "categoria": "juguete", "imagen": "" },
+{ "id": 2318171, "nombre": "RATA ACRILICA C/SONAJERO Y PELOTA SISAL", "categoria": "juguete", "imagen": "" },
+{ "id": 1359449, "nombre": "RATITA C/CHIFLE X 4", "categoria": "juguete", "imagen": "" },
+{ "id": 1141182, "nombre": "RATITA COLOR MEDIANA SOGA", "categoria": "juguete", "imagen": "" },
+{ "id": 2797631, "nombre": "RATITA X9 C/U", "categoria": "juguete", "imagen": "" },
+{ "id": 2652616, "nombre": "VARITA CON PLUMAS Y CASCABEL", "categoria": "juguete", "imagen": "" },
+
+
+
+  { "id": 2452093, "nombre": "BALDE 12 L COMUN", "categoria": "limpieza", "imagen": "" },
+  { "id": 750942, "nombre": "BLEM AEROSOL", "categoria": "limpieza", "imagen": "" },
+  { "id": 753247, "nombre": "BOLSA CONSORCIO ROLLITO 60X90", "categoria": "limpieza", "imagen": "" },
+  { "id": 753248, "nombre": "BOLSA CONSORCIO ROLLITO 80X110", "categoria": "limpieza", "imagen": "" },
+  { "id": 753245, "nombre": "BOLSA RESIDUO ROLLITO 45X60", "categoria": "limpieza", "imagen": "" },
+  { "id": 753246, "nombre": "BOLSA RESIDUO ROLLITO 50X70", "categoria": "limpieza", "imagen": "" },
+  { "id": 754795, "nombre": "CABO ALUMINIO SACA HOJA", "categoria": "limpieza", "imagen": "" },
+  { "id": 786267, "nombre": "CABO CHAPA FORRADO", "categoria": "limpieza", "imagen": "" },
+  { "id": 756967, "nombre": "CABO DE MADERA COMUN", "categoria": "limpieza", "imagen": "" },
+  { "id": 2010956, "nombre": "CABO PARA SOPAPA", "categoria": "limpieza", "imagen": "" },
+  { "id": 753300, "nombre": "CEPILLO LAVA ZAPATILLA MULTIUSO", "categoria": "limpieza", "imagen": "" },
+  { "id": 830453, "nombre": "CEPILLO LIMPIA BOMBILLAS", "categoria": "limpieza", "imagen": "" },
+  { "id": 761605, "nombre": "CEPILLO MANOPLA GOMA NEW", "categoria": "limpieza", "imagen": "" },
+  { "id": 753301, "nombre": "CEPILLO UÑAS", "categoria": "limpieza", "imagen": "" },
+  { "id": 1003243, "nombre": "CERA AUTOBRILLO 5L", "categoria": "limpieza", "imagen": "" },
+  { "id": 818126, "nombre": "CERA AUTOBRILLO NATURAL 1.0", "categoria": "limpieza", "imagen": "" },
+  { "id": 818127, "nombre": "CERA AUTOBRILLO NEGRA 1.0", "categoria": "limpieza", "imagen": "" },
+  { "id": 750939, "nombre": "CERAMICOL AEROSOL", "categoria": "limpieza", "imagen": "" },
+  { "id": 844814, "nombre": "CIF CREMOSO 250 ML", "categoria": "limpieza", "imagen": "" },
+  { "id": 753210, "nombre": "CIF CREMOSO ORIGINAL 500 ML", "categoria": "limpieza", "imagen": "" },
+  { "id": 2471738, "nombre": "CIF GEL DESINFECTANTE DE 50ML", "categoria": "limpieza", "imagen": "" },
+  { "id": 1110859, "nombre": "CIF VIDRIOS MULTIUSO GATILLO 500ML", "categoria": "limpieza", "imagen": "" },
+  { "id": 1279765, "nombre": "CIF VIDRIOS Y MULIUO DOY PACK X450ML", "categoria": "limpieza", "imagen": "" },
+  { "id": 833720, "nombre": "CINTA DE EMBALAR", "categoria": "limpieza", "imagen": "" },
+  { "id": 750959, "nombre": "CLORO 5000", "categoria": "limpieza", "imagen": "" },
+  { "id": 758077, "nombre": "CLORO PASTILLA CHICA UNIDAD 50 GR", "categoria": "limpieza", "imagen": "" },
+  { "id": 758080, "nombre": "CLORO PASTILLA TRIPLE ACCION 200 GR", "categoria": "limpieza", "imagen": "" },
+  { "id": 1979972, "nombre": "CLORO RAPIDO", "categoria": "limpieza", "imagen": "" },
+  { "id": 761916, "nombre": "CLOROTEC ALGUICIDA MANTENIMIENTO 1 LT", "categoria": "limpieza", "imagen": "" },
+  { "id": 857575, "nombre": "CLOROTEC ALQUICIDA CHOQUE 1 LT.", "categoria": "limpieza", "imagen": "" },
+  { "id": 756361, "nombre": "CLOROTEC CLARIFICADOR CLASICO 1 LT", "categoria": "limpieza", "imagen": "" },
+  { "id": 756362, "nombre": "CLOROTEC CLARIFICADOR PLUS 1 LT", "categoria": "limpieza", "imagen": "" },
+  { "id": 1327083, "nombre": "COBRA AUTOBRILLO NEGRO X00ML", "categoria": "limpieza", "imagen": "" },
+  { "id": 750377, "nombre": "DESENGRASANTE COCINA 500", "categoria": "limpieza", "imagen": "" },
+  { "id": 750962, "nombre": "DESODORANTE DE PISO 5000", "categoria": "limpieza", "imagen": "" },
+  { "id": 750961, "nombre": "DESODORANTE DE PISO 900", "categoria": "limpieza", "imagen": "" },
+  { "id": 2027656, "nombre": "DETERGENTE CIF DE 300ML", "categoria": "limpieza", "imagen": "" },
+  { "id": 2027653, "nombre": "DETERGENTE CIF DE 500ML", "categoria": "limpieza", "imagen": "" },
+  { "id": 750322, "nombre": "DETERGENTE CONCENTRADO 500", "categoria": "limpieza", "imagen": "" },
+  { "id": 750986, "nombre": "DETERGENTE ROSA 5000", "categoria": "limpieza", "imagen": "" },
+  { "id": 750315, "nombre": "DETERGENTE ROSA 900", "categoria": "limpieza", "imagen": "" },
+  { "id": 750987, "nombre": "DETERGENTE ULTRA 5000", "categoria": "limpieza", "imagen": "" },
+  { "id": 788982, "nombre": "ESCOBA 6 HILOS", "categoria": "limpieza", "imagen": "" },
+  { "id": 2203512, "nombre": "ESPLENDOR 80 MTS", "categoria": "limpieza", "imagen": "" },
+  { "id": 753312, "nombre": "ESPONJA ACERO CHICA 12 GR", "categoria": "limpieza", "imagen": "" },
+  { "id": 753235, "nombre": "FRANELA", "categoria": "limpieza", "imagen": "" },
+  { "id": 1260792, "nombre": "GLADE ADHESIVO", "categoria": "limpieza", "imagen": "" },
+  { "id": 750944, "nombre": "GLADE AEROSOL", "categoria": "limpieza", "imagen": "" },
+  { "id": 750947, "nombre": "GLADE DESODORANTE DE PISO 900", "categoria": "limpieza", "imagen": "" },
+  { "id": 1388771, "nombre": "GLADE REPUESTO TOQUE", "categoria": "limpieza", "imagen": "" },
+  { "id": 750945, "nombre": "GLADE TOQUE", "categoria": "limpieza", "imagen": "" },
+  { "id": 753288, "nombre": "GUANTES AFELPADOS MAKE EXTRA GRANDE", "categoria": "limpieza", "imagen": "" },
+  { "id": 753212, "nombre": "HARPIC GEL LIMPIADOR", "categoria": "limpieza", "imagen": "" },
+  { "id": 750283, "nombre": "JABON AZUL 1500", "categoria": "limpieza", "imagen": "" },
+  { "id": 750952, "nombre": "JABON AZUL 5000", "categoria": "limpieza", "imagen": "" },
+  { "id": 750298, "nombre": "JABON AZUL 800", "categoria": "limpieza", "imagen": "" },
+  { "id": 777007, "nombre": "JABON LQUIDO MANOS", "categoria": "limpieza", "imagen": "" },
+  { "id": 750299, "nombre": "JABON VERDE 1500", "categoria": "limpieza", "imagen": "" },
+  { "id": 750953, "nombre": "JABON VERDE 5000", "categoria": "limpieza", "imagen": "" },
+  { "id": 750300, "nombre": "JABON VERDE 800", "categoria": "limpieza", "imagen": "" },
+  { "id": 2686216, "nombre": "LAFFITTE PAÑO SINTETICO CHAMOIS CHICO", "categoria": "limpieza", "imagen": "" },
+  { "id": 2686217, "nombre": "LAFFITTE PAÑO SINTETICO CHAMOIS GRANDE", "categoria": "limpieza", "imagen": "" },
+  { "id": 750310, "nombre": "LAVANDINA 1000", "categoria": "limpieza", "imagen": "" },
+  { "id": 750312, "nombre": "LAVANDINA 2000", "categoria": "limpieza", "imagen": "" },
+  { "id": 750958, "nombre": "LAVANDINA 5000", "categoria": "limpieza", "imagen": "" },
+  { "id": 753313, "nombre": "ESPONJA ACERO GRANDE 30 GR", "categoria": "limpieza", "imagen": "" },
+  { "id": 753332, "nombre": "LIMOLD JABON TOCADOR X 3", "categoria": "limpieza", "imagen": "" },
+  { "id": 756307, "nombre": "LIMPIA VIDRIO 20", "categoria": "limpieza", "imagen": "" },
+  { "id": 750940, "nombre": "LYSOFORM AEROSOL", "categoria": "limpieza", "imagen": "" },
+  { "id": 752876, "nombre": "MANCHESTER", "categoria": "limpieza", "imagen": "" },
+  { "id": 753345, "nombre": "MAX AROMA", "categoria": "limpieza", "imagen": "" },
+  { "id": 2669456, "nombre": "MICROFIBRA AUTO 40X60 EXTERIOR LAFFITTE", "categoria": "limpieza", "imagen": "" },
+  { "id": 2669454, "nombre": "MICROFIBRA TABLERO INTERIOR AUTOS LAFFIT", "categoria": "limpieza", "imagen": "" },
+  { "id": 753231, "nombre": "MOPA AMARILLA", "categoria": "limpieza", "imagen": "" },
+  { "id": 753229, "nombre": "MOPA BLANCA", "categoria": "limpieza", "imagen": "" },
+  { "id": 1075762, "nombre": "MR MUSCULO COCINA GATILLO POWER X 500", "categoria": "limpieza", "imagen": "" },
+  { "id": 1838229, "nombre": "MR. MUSCULO COCINA DOY PACK 450", "categoria": "limpieza", "imagen": "" },
+  { "id": 750943, "nombre": "ODEX POLVO LIMPIADOR 400 GR", "categoria": "limpieza", "imagen": "" },
+  { "id": 754804, "nombre": "PALANGANA 6", "categoria": "limpieza", "imagen": "" },
+  { "id": 753284, "nombre": "PALITA DE RESIDUO", "categoria": "limpieza", "imagen": "" },
+  { "id": 753220, "nombre": "PAPEL HIGIENICO 30X4 ELEGANTE", "categoria": "limpieza", "imagen": "" },
+  { "id": 2348086, "nombre": "PAPEL HIGIENICO ELEGANTE 80MTS X4", "categoria": "limpieza", "imagen": "" },
+  { "id": 2167277, "nombre": "PAPEL HIGIENICO NITIDESS 30MX4", "categoria": "limpieza", "imagen": "" },
+  { "id": 753221, "nombre": "PAPEL HIGIENICO SUELTO", "categoria": "limpieza", "imagen": "" },
+  { "id": 754796, "nombre": "PASA CERA PLASTICO", "categoria": "limpieza", "imagen": "" },
+  { "id": 2805604, "nombre": "PATO ADHESIVOS", "categoria": "limpieza", "imagen": "" },
+  { "id": 750340, "nombre": "PERFUMINA 500", "categoria": "limpieza", "imagen": "" },
+  { "id": 753282, "nombre": "PLUMERO AFRICANO CHICO", "categoria": "limpieza", "imagen": "" },
+  { "id": 788984, "nombre": "PLUMERO LANA AUTO SELECCIONADO", "categoria": "limpieza", "imagen": "" },
+  { "id": 753281, "nombre": "PLUMERO PARA TECHO ITALIANO", "categoria": "limpieza", "imagen": "" },
+  { "id": 776855, "nombre": "POET AERSOL", "categoria": "limpieza", "imagen": "" },
+  { "id": 750949, "nombre": "POET DESODORANTE LIQUIDO", "categoria": "limpieza", "imagen": "" },
+  { "id": 753270, "nombre": "REJILLA BALLERINA AMARILLA", "categoria": "limpieza", "imagen": "" },
+  { "id": 1748679, "nombre": "REJILLA DOBLE ENERGICO", "categoria": "limpieza", "imagen": "" },
+  { "id": 1042601, "nombre": "REPASADOR BLANCO", "categoria": "limpieza", "imagen": "" },
+  { "id": 832542, "nombre": "REPASADOR DE TOALLA A CUADROS", "categoria": "limpieza", "imagen": "" },
+  { "id": 1772968, "nombre": "REPASADORES DE DEIBUJOS Y COLORES", "categoria": "limpieza", "imagen": "" },
+  { "id": 753334, "nombre": "REXONA JABON DE TOCADOR X 3", "categoria": "limpieza", "imagen": "" },
+  { "id": 1039001, "nombre": "REXONA JABON TOCADOR X 125 GRS", "categoria": "limpieza", "imagen": "" },
+  { "id": 2731789, "nombre": "ROLLO COCINA 360 PAÑOS 3", "categoria": "limpieza", "imagen": "" },
+  { "id": 760596, "nombre": "ROLLO COCINA CARTABELLA X3", "categoria": "limpieza", "imagen": "" },
+  { "id": 2042344, "nombre": "ROLLO COCINA SUELTO", "categoria": "limpieza", "imagen": "" },
+  { "id": 2639605, "nombre": "SAMANTA MICROFIBRA MULTIUSO", "categoria": "limpieza", "imagen": "" },
+  { "id": 2639540, "nombre": "SAMANTA MICROFIBRA VIDRIOS", "categoria": "limpieza", "imagen": "" },
+  { "id": 753279, "nombre": "SECADOR 40 DOBLE GOMA COMUN", "categoria": "limpieza", "imagen": "" },
+  { "id": 753275, "nombre": "SECADOR DE PISO  40 PLÁSTICO Y GOMA", "categoria": "limpieza", "imagen": "" },
+  { "id": 756753, "nombre": "SECADOR DE PISO 30 NEGRO", "categoria": "limpieza", "imagen": "" },
+  { "id": 750954, "nombre": "SUAVISANTE 5000", "categoria": "limpieza", "imagen": "" },
+  { "id": 750303, "nombre": "SUAVIZANTE 1000", "categoria": "limpieza", "imagen": "" },
+  { "id": 753239, "nombre": "TRAPO DE PISO MR TRAPO", "categoria": "limpieza", "imagen": "" },
+  { "id": 753237, "nombre": "TRAPO PISO BLANCO", "categoria": "limpieza", "imagen": "" },
+  { "id": 870230, "nombre": "TRAPO PISO LINEA ROJA Y BLANCA", "categoria": "limpieza", "imagen": "" },
+  { "id": 753236, "nombre": "TRAPO PISO RAYADO", "categoria": "limpieza", "imagen": "" },
+  { "id": 1561204, "nombre": "VANISH LIQUIDO DOY PACK X400ML", "categoria": "limpieza", "imagen": "" },
+  { "id": 753311, "nombre": "VIRULANA ROLLO", "categoria": "limpieza", "imagen": "" }
 
 
 
