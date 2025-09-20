@@ -1,43 +1,39 @@
+"use client";
+import React from "react";
 
 type Product = {
   id: number;
-  nombre: string;  // Cambiado de 'name' a 'nombre'
+  nombre: string;
   categoria: string;
-  imagen: string;  // Cambiado de 'image' a 'imagen'
-  precio: number;  // Cambiado de 'price' a 'precio'
+  imagen: string;
+  precio: number;
 };
 
-const Card = ({ producto }: { producto: Product }) => {
-return (
-    <div className="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700">
-    <a href="#">
-        <img
-        className="p-8 rounded-t-lg"
-        src={producto.imagen || "/default.jpg"}
-        alt={producto.nombre}
-        />
-    </a>
-    <div className="px-5 pb-5">
-        <a href="#">
-        <h5 className="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
-            {producto.nombre}
-        </h5>
-        </a>
-        <div className="flex items-center mt-2.5 mb-5">
-        
-        
-        </div>
-        <div className="flex items-center justify-between">
-        
-        <a
-            href="#"
-            className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-        >
-            Agregar
-        </a>
-        </div>
-    </div>
-    </div>
-);
+type Props = {
+  producto: Product;
+  onAddToCart?: (producto: Product) => void;
 };
-export default Card
+
+export default function Card({ producto, onAddToCart }: Props) {
+  return (
+    <div className="bg-gray-800 p-4 rounded-lg shadow-md flex flex-col items-center">
+      <img
+        src={producto.imagen || "/placeholder.png"}
+        alt={producto.nombre}
+        className="w-32 h-32 object-contain"
+      />
+      <h2 className="mt-4 font-bold text-white text-center">{producto.nombre}</h2>
+      <p className="text-gray-300">${producto.precio}</p>
+      <button
+        onClick={() => {
+          console.log("Card -> click agregar:", producto);
+          console.log("Card -> onAddToCart existe?", !!onAddToCart);
+          onAddToCart?.(producto);
+        }}
+        className="mt-3 bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 pointer-events-auto"
+      >
+        Agregar
+      </button>
+    </div>
+  );
+}

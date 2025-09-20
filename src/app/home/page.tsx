@@ -1,19 +1,19 @@
 'use client'
 import Image from 'next/image'
-import Link from 'next/link' // 👈 IMPORTANTE
-import fondo from '@/assets/fondo-forrajeria.jpg'
+import Link from 'next/link' 
+import fondo from '@/assets/pgfondo.jpg'
 
 export default function Home() {
   return (
     <main className="bg-white min-h-screen">
 
       {/* Hero Section */}
-      <section className="relative w-full h-[70vh] flex items-center justify-center text-center">
+      <section className="relative w-full h-[90vh] flex items-center justify-center text-center">
         {/* Imagen de fondo */}
         <Image
           src={fondo}
           alt="Fondo forrajería"
-          fill   // 👈 en Next 13+ se usa fill en lugar de layout="fill"
+          fill   
           className="z-0 brightness-75 object-cover"
         />
 
@@ -34,10 +34,12 @@ export default function Home() {
               </button>
             </Link>
 
-            {/* Otro botón que después podemos conectar a un formulario de pedido */}
-            <button className="border border-white hover:bg-white hover:text-red-600 px-6 py-2 rounded-xl transition">
-              Hacenos tu pedido
-            </button>
+            <Link href="https://www.instagram.com/forrajerialodelalo/" target="_blank">
+  <button className="bg-red-600 hover:bg-red-700 text-white px-6 py-2 rounded-xl shadow-lg transition">
+    Seguinos
+  </button>
+</Link>
+
           </div>
         </div>
       </section>

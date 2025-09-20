@@ -141,7 +141,7 @@
   
   {
     "id": 1894423,
-    "nombre": "BOZAL CANASTA N1",
+    "nombre": "BOZAL CANASTA N1 AL N5",
     "categoria": "perro",
     "imagen": "/imagenes-perros/bozal canasta.png"
   },
@@ -192,7 +192,7 @@
     "id": 749025,
     "nombre": "DOG SELECTION A. PEQUEÑO X 15",
     "categoria": "perro",
-    "imagen": "/imagenes-perros/dog selection.webp"
+    "imagen": "/imagenes-perros/dog-selection-criadores-perro-adulto-raza-pequena-x-15-kg-01.webp"
   },
   {
     "id": 749026,
@@ -920,14 +920,14 @@
     { "id": 1323115, "nombre": "CARBON BOLSA PAPEL AZUL", "categoria": "varios", "imagen": "/imagenes_productos_varios/9.webp" },
     { "id": 757073, "nombre": "CARBON CHICO Y GRANDE", "categoria": "varios", "imagen": "/imagenes_productos_varios/10.webp" },
     { "id": 2318177, "nombre": "CASITA HAMSTER P/JAULA NEW PET", "categoria": "varios", "imagen": "/imagenes_productos_varios/11.jpeg" },
-    { "id": 2587603, "nombre": "CEPILLO A VAPOR", "categoria": "varios", "imagen": "/imagenes_productos_varios/12.png" },
-    { "id": 2662007, "nombre": "CEPILLO A VAPOR REBATIBLE", "categoria": "varios", "imagen": "/imagenes_productos_varios/13.jpeg" },
-    { "id": 2822916, "nombre": "CEPILLO CON VAPOR BALLENA ROSA BEEPAW", "categoria": "varios", "imagen": "/imagenes_productos_varios/14.webp" },
-    { "id": 2822909, "nombre": "CEPILLO CON VAPOR PATO BLANCO BEEPAW", "categoria": "varios", "imagen": "/imagenes_productos_varios/15.webp" },
-    { "id": 753310, "nombre": "CEPILLO DE ROPA MAPU JEANS", "categoria": "varios", "imagen": "/imagenes_productos_varios/16.webp" },
-    { "id": 1067250, "nombre": "CEPILLO DE ROPA PLANCHITA C/ MANGO", "categoria": "varios", "imagen": "/imagenes_productos_varios/17.webp" },
-    { "id": 761603, "nombre": "CEPILLO DENTAL DEDO", "categoria": "varios", "imagen": "/imagenes_productos_varios/18.webp" },
-    { "id": 2662006, "nombre": "CEPILLO GRAVITY", "categoria": "varios", "imagen": "/imagenes_productos_varios/19.webp" },
+    { "id": 2587603, "nombre": "CEPILLO A VAPOR", "categoria": "perro y gato", "imagen": "/imagenes_productos_varios/12.png" },
+    { "id": 2662007, "nombre": "CEPILLO A VAPOR REBATIBLE", "categoria": "perro y gato", "imagen": "/imagenes_productos_varios/13.jpeg" },
+    { "id": 2822916, "nombre": "CEPILLO CON VAPOR BALLENA ROSA BEEPAW", "categoria": "perro y gato", "imagen": "/imagenes_productos_varios/14.webp" },
+    { "id": 2822909, "nombre": "CEPILLO CON VAPOR PATO BLANCO BEEPAW", "categoria": "perro y gato", "imagen": "/imagenes_productos_varios/15.webp" },
+    { "id": 753310, "nombre": "CEPILLO DE ROPA MAPU JEANS", "categoria": "limpieza", "imagen": "/imagenes_productos_varios/16.webp" },
+    { "id": 1067250, "nombre": "CEPILLO DE ROPA PLANCHITA C/ MANGO", "categoria": "limpieza", "imagen": "/imagenes_productos_varios/17.webp" },
+    { "id": 761603, "nombre": "CEPILLO DENTAL DEDO", "categoria": "perro y gato", "imagen": "/imagenes_productos_varios/18.webp" },
+    { "id": 2662006, "nombre": "CEPILLO GRAVITY", "categoria": "perro y gato", "imagen": "/imagenes_productos_varios/19.webp" },
     { "id": 756305, "nombre": "COLADOR CHICO Y GRANDE", "categoria": "varios", "imagen": "/imagenes_productos_varios/20.webp" },
     { "id": 751041, "nombre": "ECOLE", "categoria": "varios", "imagen": "/imagenes_productos_varios/21.png" },
     { "id": 753303, "nombre": "EMBUDO 10", "categoria": "varios", "imagen": "/imagenes_productos_varios/22.webp" },
@@ -943,7 +943,7 @@
     { "id": 751040, "nombre": "LA GOTITA", "categoria": "varios", "imagen": "/imagenes_productos_varios/32.webp" },
     { "id": 751045, "nombre": "LA GOTITA GEL", "categoria": "varios", "imagen": "/imagenes_productos_varios/33.webp" },
     { "id": 2123285, "nombre": "LEÑA ACACIO BLANCO", "categoria": "varios", "imagen": "/imagenes_productos_varios/34.webp" },
-    { "id": 757119, "nombre": "MANTAS", "categoria": "varios", "imagen": "/imagenes_productos_varios/35.webp" },
+    { "id": 757119, "nombre": "MANTAS", "categoria": "perro y gato", "imagen": "/imagenes_productos_varios/35.webp" },
     { "id": 753322, "nombre": "NAFTALINA", "categoria": "varios", "imagen": "/imagenes_productos_varios/36.jpg" },
     { "id": 2230657, "nombre": "OFF CREMA 196 GR", "categoria": "varios", "imagen": "/imagenes_productos_varios/37.jfif" },
     { "id": 2230660, "nombre": "OFF CREMA 60GRS", "categoria": "varios", "imagen": "/imagenes_productos_varios/38.jpg" },

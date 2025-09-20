@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import Card from "@/components/Card";
 import SearchBar from "@/components/SearchBar";
+import { useCart } from "@/context/CartContext"; 
 
 
 
@@ -16,7 +17,10 @@ type Product = {
 
 const PoisonViews = () => {
   const [productos, setProductos] = useState<Product[]>([]);
-    const [filtro, setFiltro] = useState("");
+   const [filtro, setFiltro] = useState(""); // 🔹 Agregado: estado para la búsqueda
+
+   // 🔹 CAMBIO: obtenemos la función del contexto
+const { agregarAlCarrito } = useCart();
 
 
   useEffect(() => {
@@ -47,14 +51,10 @@ const PoisonViews = () => {
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 p-4">
         {productosFiltrados.map((producto) => (
           <Card
-            key={producto.id}
-            producto={{
-              ...producto,
-              nombre: producto.nombre,
-              imagen: producto.imagen,
-              precio: producto.precio,
-            }}
-          />
+key={producto.id}
+producto={producto}
+onAddToCart={agregarAlCarrito} 
+/>
         ))}
       </div>
     </div>

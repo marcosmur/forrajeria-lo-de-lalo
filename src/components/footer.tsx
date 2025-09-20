@@ -1,7 +1,7 @@
 const Footer=()=>{
 
 return(
-<footer className="bg-white rounded-lg shadow-sm m-4 dark:bg-red-700">
+<footer className="bg-red-700 rounded-lg shadow-sm m-4 dark:bg-red-700">
     <div className="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
     <span className="text-sm text-white sm:text-center dark:text-white">© 2023 <a href="https://flowbite.com/" className="hover:underline">Flowbite™</a>. All Rights Reserved.
     </span>

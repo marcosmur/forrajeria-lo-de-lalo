@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import Card from "@/components/Card";
 import SearchBar from "@/components/SearchBar"; // 🔹 Agregado: importamos la barra de búsqueda
+import { useCart } from "@/context/CartContext"; // 🔹 CAMBIO: importamos el contexto
 
 type Product = {
   id: number;
@@ -15,6 +16,9 @@ type Product = {
 const CleaningViews = () => {
   const [productos, setProductos] = useState<Product[]>([]);
   const [filtro, setFiltro] = useState(""); // 🔹 Agregado: estado para la búsqueda
+
+  // 🔹 CAMBIO: obtenemos la función del contexto
+  const { agregarAlCarrito } = useCart(); 
 
   useEffect(() => {
     fetch("/data/productos.json")
@@ -41,17 +45,13 @@ const CleaningViews = () => {
       {/* 🔹 Agregado: Barra de búsqueda */}
       <SearchBar onSearch={setFiltro} />
 
-      {/* 🔹 Modificado: ahora mostramos productosFiltrados en vez de productos */}
+      {/* 🔹 Modificado: ahora pasamos onAddToCart a cada Card */}
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 p-4">
         {productosFiltrados.map((producto) => (
           <Card
             key={producto.id}
-            producto={{
-              ...producto,
-              nombre: producto.nombre,
-              imagen: producto.imagen,
-              precio: producto.precio,
-            }}
+            producto={producto}
+            onAddToCart={agregarAlCarrito} // 🔹 CAMBIO: PASAMOS LA FUNCIÓN DEL CONTEXTO
           />
         ))}
       </div>

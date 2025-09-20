@@ -54,7 +54,7 @@ const Navbar = () => {
                   <ul className="text-white text-sm">
                     <li>
                       <a href="/poison" className="block px-4 py-2 hover:bg-red-600">
-                        Venenos
+                        Control de plagas
                       </a>
                     </li>
                     <li>

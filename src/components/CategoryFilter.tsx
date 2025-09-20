@@ -1,34 +1,39 @@
-"use client";
-
 type Props = {
-categorias: string[];
-onFilter: (categoria: string | null) => void;
+  categorias: string[];
+  onFilter: (cat: string | null) => void;
+  categoriaSeleccionada: string | null;
+  className?: string;
 };
 
-export default function CategoryFilter({ categorias, onFilter }: Props) {
-return (
-<aside className="w-48 p-4 border-r bg-gray-50">
-<h2 className="font-bold mb-4">Categorías</h2>
-<ul className="flex flex-col gap-2">
-<li>
-<button
-onClick={() => onFilter(null)}
-className="text-blue-600 hover:underline"
->
-Todas
-</button>
-</li>
-{categorias.map((cat) => (
-<li key={cat}>
-<button
-onClick={() => onFilter(cat)}
-className="hover:underline"
->
-{cat}
-</button>
-</li>
-))}
-</ul>
-    </aside>
-);
+export default function CategoryFilter({
+  categorias,
+  onFilter,
+  categoriaSeleccionada,
+  className = "",
+}: Props) {
+  return (
+    <div className={`w-full ${className}`}>
+      <ul className="space-y-2">
+        <li
+          onClick={() => onFilter(null)}
+          className={`cursor-pointer text-black ${
+            categoriaSeleccionada === null ? "font-bold underline" : ""
+          }`}
+        >
+          Todas
+        </li>
+        {categorias.map((cat) => (
+          <li
+            key={cat}
+            onClick={() => onFilter(cat)}
+            className={`cursor-pointer text-black ${
+              categoriaSeleccionada === cat ? "font-bold underline" : ""
+            }`}
+          >
+            {cat}
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
 }
