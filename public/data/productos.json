@@ -1151,7 +1151,619 @@
   { "id": 870230, "nombre": "TRAPO PISO LINEA ROJA Y BLANCA", "categoria": "limpieza", "imagen": "/imagenes_productos_limpieza/101.jpg" },
   { "id": 753236, "nombre": "TRAPO PISO RAYADO", "categoria": "limpieza", "imagen": "/imagenes_productos_limpieza/102.jpg" },
   { "id": 1561204, "nombre": "VANISH LIQUIDO DOY PACK X400ML", "categoria": "limpieza", "imagen": "/imagenes_productos_limpieza/103.webp" },
-  { "id": 753311, "nombre": "VIRULANA ROLLO", "categoria": "limpieza", "imagen": "/imagenes_productos_limpieza/104.webp" }
+  { "id": 753311, "nombre": "VIRULANA ROLLO", "categoria": "limpieza", "imagen": "/imagenes_productos_limpieza/104.webp" },
+
+
+
+  {
+    "id": 2543384,
+    "nombre": "AEROSOL PULGUICIDA YOUNG",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/1.jpg"
+  },
+  {
+    "id": 878860,
+    "nombre": "BAÑADERA PAJARO N1/2/3/4ELPE",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/2.webp"
+  },
+  {
+    "id": 776249,
+    "nombre": "BEBEDERO AZUL EXTERNO 1",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/3.webp"
+  },
+  {
+    "id": 776272,
+    "nombre": "BEBEDERO HAMSTER CHICO Y GRANDE",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/4.jpg"
+  },
+  {
+    "id": 762917,
+    "nombre": "CADENA PASEO GRANDE Y MEDIANA",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/5.jpg"
+  },
+  {
+    "id": 1983770,
+    "nombre": "CARDINA RECTANGUALR CHICA",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/6.jpg"
+  },
+  {
+    "id": 1526127,
+    "nombre": "COLCHONETA FANTASIA  T1/T2/T3",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/7.png"
+  },
+  {
+    "id": 761691,
+    "nombre": "COLLAR 00/0/1/2/3/4/5/6",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/8.jpg"
+  },
+  {
+    "id": 761742,
+    "nombre": "COLLAR 2/3/4 ESTAMPADO",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/9.webp"
+  },
+  {
+    "id": 2374999,
+    "nombre": "COLLAR AFA OFICIAL s/m/l",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/10.jpg"
+  },
+  {
+    "id": 819094,
+    "nombre": "COLLAR CUERO (1)",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/11.webp"
+  },
+  {
+    "id": 819096,
+    "nombre": "COLLAR CUERO BRILLO (3)",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/12.webp"
+  },
+  {
+    "id": 819097,
+    "nombre": "COLLAR CUERO GRANDE LUNARES (4)",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/13.webp"
+  },
+  {
+    "id": 1609658,
+    "nombre": "COLLAR DE AHORQUE ALPINO ",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/14.jpeg"
+  },
+  {
+    "id": 818934,
+    "nombre": "COLLAR FLOR",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/15.webp"
+  },
+  {
+    "id": 818937,
+    "nombre": "COLLAR GOMA CON HUESITO",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/16.jpg"
+  },
+  {
+    "id": 2543329,
+    "nombre": "COLLAR HIPOCAMPUS N1/2/3/4/5",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/17.jpg"
+  },
+  {
+    "id": 2308416,
+    "nombre": "COLLAR PIEDRAS SIGNOS",
+    "categoria": "sahumerio",
+    "imagen": "/imagenes-productos-faltantes/18.jpeg"
+  },
+  {
+    "id": 761774,
+    "nombre": "COLLAR REGULABLE 2/3/4/5",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/19.webp"
+  },
+  
+
+
+  {
+    "id": 761810,
+    "nombre": "COLLAR Y CORREA CONJUNTO",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/20.jpeg"
+  },
+  {
+    "id": 924790,
+    "nombre": "COMEDERO ACERO",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/21.webp"
+  },
+  {
+    "id": 2796685,
+    "nombre": "COMEDERO ACERO ANIMAL PRINT N1/2",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/22.webp"
+  },
+  {
+    "id": 2567095,
+    "nombre": "COMEDERO ACERO DOBLE 14 M C/ PIE",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/23.webp"
+  },
+  {
+    "id": 1405318,
+    "nombre": "COMEDERO ACERO INOXIDABLE N 26/30/34",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/24.jpg"
+  },
+  {
+    "id": 2590319,
+    "nombre": "COMEDERO BEBEDERO AUTOMATICO 1.5 LTS NEW",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/25.webp"
+  },
+  {
+    "id": 2248364,
+    "nombre": "COMEDERO CAP & CUA 200ML/350ml",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/26.png"
+  },
+  {
+    "id": 1445916,
+    "nombre": "COMEDERO CAZUELA CHICO Y MEDIANO",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/27.png"
+  },
+  {
+    "id": 830351,
+    "nombre": "COMEDERO CHICO PEZ (11)",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/28.webp"
+  },
+  {
+    "id": 987278,
+    "nombre": "COMEDERO COMELENTO NEW RIGIDO",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/29.webp"
+  },
+  {
+    "id": 830349,
+    "nombre": "COMEDERO DOBLE (9)",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/30.jpg"
+  },
+  {
+    "id": 830318,
+    "nombre": "COMEDERO DOBLE NEW (1)",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/31.jpg"
+  },
+  {
+    "id": 776269,
+    "nombre": "COMEDERO GANCHO CHICO 9",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/32.webp"
+  },
+  {
+    "id": 830320,
+    "nombre": "COMEDERO GRANDE NEW BRILLANTINA (3)",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/33.png"
+  },
+  {
+    "id": 2191471,
+    "nombre": "COMEDERO HAMSTER NEW ANTIVUELCO",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/34.webp"
+  },
+  {
+    "id": 830372,
+    "nombre": "COMEDERO HUESO DOBLE (12)",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/35.webp"
+  },
+  {
+    "id": 924788,
+    "nombre": "COMEDERO HUESO DOBLE CHICO 24X 3.5",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/36.jpeg"
+  },
+  {
+    "id": 2302069,
+    "nombre": "COMEDERO MEDIANO CON SERIGRAFIA",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/37.webp"
+  },
+  {
+    "id": 1099252,
+    "nombre": "COMEDERO MINI MINI",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/38.webp"
+  },
+  {
+    "id": 1066956,
+    "nombre": "COMEDERO OVAL GRANDE",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/39.webp"
+  },
+  {
+    "id": 830321,
+    "nombre": "COMEDERO OVEJERO NEW (4)",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/40.jpg"
+  },
+  {
+    "id": 776265,
+    "nombre": "COMEDERO PAJARO JAULIN 5",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/41.webp"
+  },
+  
+  {
+    "id": 776266,
+    "nombre": "COMEDERO PAJARO TAPADO MAI ELPE 6",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/42.webp"
+  },
+  {
+    "id": 2191470,
+    "nombre": "COMEDERO/BEBEDERO GANHO N 3 ELPE",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/43.webp"
+  },
+  {
+    "id": 794590,
+    "nombre": "CONEJINA X 30",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/44.jpg"
+  },
+  {
+    "id": 761762,
+    "nombre": "CORREA 0/1/2/3/4",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/45.jpg"
+  },
+  {
+    "id": 2375001,
+    "nombre": "CORREA AFA OFICIAL FINA 1.5MTS",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/46.webp"
+  },
+  {
+    "id": 819313,
+    "nombre": "CORREA BRILLA EN LA OSCURIDAD",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/47.jpg"
+  },
+  {
+    "id": 819340,
+    "nombre": "CORREA CON DOS COLLARES",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/48.jpeg"
+  },
+  {
+    "id": 761819,
+    "nombre": "CORREA EXTENSIBLE 3/5 METROS",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/49.jpg"
+  },
+  
+  {
+    "id": 2543334,
+    "nombre": "CORREA HIPOCAMPUS N1/2/3/4/5",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/50.webp"
+  },
+  
+  
+  {
+    "id": 2815448,
+    "nombre": "DIFUSOR AROMANZA",
+    "categoria": "sahumerio",
+    "imagen": "/imagenes-productos-faltantes/51.webp"
+  },
+  {
+    "id": 753273,
+    "nombre": "ESCOBA EUROPA RINCONERA",
+    "categoria": "limpieza",
+    "imagen": "/imagenes-productos-faltantes/52.webp"
+  },
+  {
+    "id": 753285,
+    "nombre": "ESCOBILLA BAÑO CON BASE SAMANTHA",
+    "categoria": "limpieza",
+    "imagen": "/imagenes-productos-faltantes/53.jpg"
+  },
+  {
+    "id": 753286,
+    "nombre": "ESCOBILLA DE BAÑO BOCHITA",
+    "categoria": "limpieza",
+    "imagen": "/imagenes-productos-faltantes/54.jpg"
+  },
+  {
+    "id": 753272,
+    "nombre": "ESCOBILLON GOLF",
+    "categoria": "limpieza",
+    "imagen": "/imagenes-productos-faltantes/55.webp"
+  },
+
+
+
+{
+    "id": 753271,
+    "nombre": "ESCOBILLON GONDOLA",
+    "categoria": "limpieza",
+    "imagen": "/imagenes-productos-faltantes/56.webp"
+  },
+  {
+    "id": 1024190,
+    "nombre": "ESCOBILLON LAQUEADO MONARCA",
+    "categoria": "limpieza",
+    "imagen": "/imagenes-productos-faltantes/57.png"
+  },
+  {
+    "id": 832527,
+    "nombre": "ESCOBILLON SUPER GONDOLA NAHUEL",
+    "categoria": "limpieza",
+    "imagen": "/imagenes-productos-faltantes/58.webp"
+  },
+  {
+    "id": 2360041,
+    "nombre": "ESOBILLON ROBLE FIORINO",
+    "categoria": "limpieza",
+    "imagen": "/imagenes-productos-faltantes/59.png"
+  },
+  {
+    "id": 753234,
+    "nombre": "ESPONJA DE BAÑO REDONDA O RECTANGULAR",
+    "categoria": "limpieza",
+    "imagen": "/imagenes-productos-faltantes/60.webp"
+  },
+  {
+    "id": 2612306,
+    "nombre": "ESPONJA DE IBRA FLEXOL",
+    "categoria": "limpieza",
+    "imagen": "/imagenes-productos-faltantes/61.png"
+  },
+  {
+    "id": 2721780,
+    "nombre": "ESPONJA ECONOMICA TIPO MORTIMER",
+    "categoria": "limpieza",
+    "imagen": "/imagenes-productos-faltantes/62.webp"
+  },
+  {
+    "id": 753316,
+    "nombre": "ESPONJA SPUNITA PLU DE COLORES",
+    "categoria": "limpieza",
+    "imagen": "/imagenes-productos-faltantes/63.png"
+  },
+  {
+    "id": 751026,
+    "nombre": "EVERREADY AA X UNIDAD",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/64.webp"
+  },
+  {
+    "id": 751025,
+    "nombre": "EVERREADY AAA UNIDAD",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/65.jpg"
+  },
+  {
+    "id": 751028,
+    "nombre": "EVERREADY GRANDE 1250 UNIDAD",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/66.webp"
+  },
+  {
+    "id": 751027,
+    "nombre": "EVERREADY MEDIANA 1235 UNIDAD",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/67.webp"
+  },
+  {
+    "id": 751044,
+    "nombre": "FASTIX TRANSPARENTE",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/68.webp"
+  },
+  {
+    "id": 757238,
+    "nombre": "FLOT FOOD",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/69.webp"
+  },
+  {
+    "id": 754798,
+    "nombre": "FUENTON",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/70.jpg"
+  },
+  {
+    "id": 1509470,
+    "nombre": "GANCHO CULTIVO",
+    "categoria": "jardineria",
+    "imagen": "/imagenes-productos-faltantes/71.webp"
+  },
+  {
+    "id": 750890,
+    "nombre": "GELTEK CEBO CUCARACHA 6",
+    "categoria": "veneno",
+    "imagen": "/imagenes-productos-faltantes/72.webp"
+  },
+  {
+    "id": 752906,
+    "nombre": "GLACOXAN D-SIST 30",
+    "categoria": "veneno",
+    "imagen": "/imagenes-productos-faltantes/73.webp"
+  },
+  {
+    "id": 752910,
+    "nombre": "GLACOXAN E 60",
+    "categoria": "veneno",
+    "imagen": "/imagenes-productos-faltantes/74.webp"
+  },
+  {
+    "id": 761644,
+    "nombre": "LAND RABBIT CONEJO/COBAYO",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/75.png"
+  },
+
+
+  {
+    "id": 761645,
+    "nombre": "LAND RABBIT MEXCLA HAMSTER",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/76.png"
+  },
+  {
+    "id": 753184,
+    "nombre": "MACETA BOLS",
+    "categoria": "jardineria",
+    "imagen": "/imagenes-productos-faltantes/77.jpg"
+  },
+  {
+    "id": 753173,
+    "nombre": "MACETA CLASICA",
+    "categoria": "jardineria",
+    "imagen": "/imagenes-productos-faltantes/78.jpg"
+  },
+  {
+    "id": 1154599,
+    "nombre": "MACETA CUADRADA",
+    "categoria": "jardineria",
+    "imagen": "/imagenes-productos-faltantes/79.jpg"
+  },
+  {
+    "id": 753151,
+    "nombre": "MACETA SIMIL 16",
+    "categoria": "jardineria",
+    "imagen": "/imagenes-productos-faltantes/80.webp"
+  },
+  {
+    "id": 794593,
+    "nombre": "MAIZ ENTERO X 30",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/81.webp"
+  },
+  {
+    "id": 794594,
+    "nombre": "MAIZ PISADO X 25",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/82.jpg"
+  },
+  {
+    "id": 794595,
+    "nombre": "MEZCLA CANARIO X 30",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/83.jpg"
+  },
+  {
+    "id": 794596,
+    "nombre": "MEZCLA PAJARO X 25",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/84.webp"
+  },
+  {
+    "id": 794597,
+    "nombre": "MIJO X 25",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/85.webp"
+  },
+  {
+    "id": 2587606,
+    "nombre": "PASTA DENTAL PET-O-DENT PORTA",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/86.jpg"
+  },
+  {
+    "id": 753143,
+    "nombre": "PLATO MACETA 20",
+    "categoria": "jardineria",
+    "imagen": "/imagenes-productos-faltantes/87.webp"
+  },
+  {
+    "id": 761803,
+    "nombre": "PRETAL 1/2/3/4/5",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/88.webp"
+  },
+  {
+    "id": 2796695,
+    "nombre": "PRETAL ARNES REGULABLE T7",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/89.jpg"
+  },
+  {
+    "id": 760939,
+    "nombre": "PRETAL C/ CINTA GRANDE",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/90.jpg"
+  },
+  
+  
+  {
+    "id": 752024,
+    "nombre": "PROCENEX DESODORANTE LIQUIDO 900",
+    "categoria": "limpieza",
+    "imagen": "/imagenes-productos-faltantes/91.jpg"
+  },
+  {
+    "id": 2745275,
+    "nombre": "ROPA PERRO",
+    "categoria": "perro",
+    "imagen": "/imagenes-productos-faltantes/92.jpg"
+  },
+  {
+    "id": 866438,
+    "nombre": "RUEDA HAMSTER METALICA",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/93.jpg"
+  },
+
+
+   {
+    "id": 866437,
+    "nombre": "RUEDA HAMSTER PLASTICO C/SOPORTE",
+    "categoria": "varios",
+    "imagen": "/imagenes-productos-faltantes/94.webp"
+  },
+  {
+    "id": 752230,
+    "nombre": "SHAMPOO OSSPRET PERFUMADO",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/95.jpg"
+  },
+  {
+    "id": 752231,
+    "nombre": "SHAMPOO OSSPRET TRADICIONAL",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/96.png"
+  },
+  {
+    "id": 757125,
+    "nombre": "VESTIDO T4",
+    "categoria": "perro y gato",
+    "imagen": "/imagenes-productos-faltantes/97.webp"
+  },
+  {
+    "id": 761795,
+    "nombre": "PRETAL REGULABLE 1/2/3/4/5",
+    "categoria": "perro ",
+    "imagen": "/imagenes-productos-faltantes/98.png"
+  }
+
+
+
+
+  
 
 
 
